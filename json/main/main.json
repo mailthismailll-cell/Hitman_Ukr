@@ -3692,14 +3692,14 @@
             {
               "name": "M03",
               "org_tbyte": 9,
-              "value": "ЗА КУЛIСАМИ",
+              "value": "ЗАВIСУ ВНИЗ",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "M04",
               "org_tbyte": 9,
-              "value": "ПЛОСКА ЛIНIЯ",
+              "value": "IЗОЛIНIЯ",
               "numChildren": 0,
               "type": "data"
             },

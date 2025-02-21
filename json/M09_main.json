@@ -34477,7 +34477,7 @@
             {
               "name": "RingBell",
               "org_tbyte": 9,
-              "value": "Зателефонувати в дзвiн",
+              "value": "Задзвонити в дзвiн",
               "numChildren": 0,
               "type": "data"
             }
@@ -34571,7 +34571,7 @@
                 {
                   "name": "M09_BWFGC3_01CRGF",
                   "org_tbyte": 41,
-                  "value": "Чарiвне весiлля, золото. Тiльки де твiй батюшка?",
+                  "value": "Чарiвне весiлля, золото. Тiльки де твiй татко?",
                   "numChildren": 0,
                   "type": "data"
                 },
