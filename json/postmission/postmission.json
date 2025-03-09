@@ -149,7 +149,7 @@
 		]
 		"Interface" [
 			"AccountBalance" = "БАЛАНС РАХУНКУ:"
-			"AcquireNewIdentity" = "ACQUIRE NEW IDENTITY"
+			"AcquireNewIdentity" = "ОТРИМАТИ НОВУ IДЕНТИЧНIСТЬ"
 			"AddNewFriend" = "ADD NEW FRIEND  {ZW_SELECT4}"
 			"Age" = "Age:"
 			"AllMustHaveCharacters" = "~"
@@ -186,39 +186,39 @@ or {ZW_CANCEL} to cancel"
 				"tcrUpdateCancel" = "A required update is available for the Xbox Live service.
 You cannot connect to Xbox Live until the update is
 installed. Press {ZW_SELECT} to update or {ZW_SELECT3} to cancel."
-				"txtBribeCiviText" = "LOCALS WHO’VE SEEN OR HEARD
-YOU WILL GROW SUDDENLY 
-FORGETFUL. POTENTIAL 
-WITNESSES WILL THINK TWICE
-ABOUT SPEAKING UP.  
+				"txtBribeCiviText" = "МIСЦЕВI ЯКI ЧУЛИ ВАС I БАЧИЛИ
+ВИПАДКОВО ЗАБУДУТЬ 
+ПРО ЦЕ. ПОТЕНЦIЙНI СВIДКИ 
+ПОДУМАЮТЬ ДВIЧЧI ПЕРЕД
+ТИМ ЯК ГОВОРИТИ.  
 
-BRIBING CIVILIANS LOWERS
-YOUR NOTORIETY A LITTLE
-(15 POINTS)."
+ПIДКУП МIСЦЕВИХ ТРОХИ
+ЗНИЗИТЬ ВАШУ ВIДОМIСТЬ
+(15 ОЧОК)."
 				"txtBribeCiviTitle" = "ПIДКУПИТИ СВIДКIВ:"
-				"txtBribeIdentityText" = "GOVERNMENT AND LAW 
-ENFORCEMENT RECORDS WILL
-BE WIPED. WITNESSES WILL
-DISAPPEAR. FOR ALL 
-PRACTICAL PURPOSES YOU
-WILL SIMPLY CEASE TO EXIST.
+				"txtBribeIdentityText" = "УРЯДОВI ТА 
+МIСЦЕВI ЗАПИСИ КАМЕР
+БУДУТЬ СТЕРТI. СВIДКИ
+ЗНИКНУТЬ. ДЛЯ ВСIХ
+ВИ ПРОСТО ПЕРЕСТАНЕТЕ
+IСНУВАТИ.
 
-ACQUIRING A NEW IDENTITY
-WILL RESET YOUR NOTORIETY
-RATING (UP TO 100 POINTS)."
+ОТРИМАТИ НОВУ IДЕНТИЧНIСТЬ
+ЦЕ ЗIБ'Э РЕЙТИНГ ВАШОЁ
+ВПIЗНАВАНОСТI (ДО 100 ОЧОК)."
 				"txtBribeIdentityTitle" = "НОВА IДЕНТИЧНIСТЬ:"
-				"txtBribePoliceText" = "THE LOCAL CHIEF OF POLICE
-WILL ENSURE THAT 
-INCRIMINATING EVIDENCE 
-IS ACCIDENTALLY
-MISPLACED. THE
-INVESTIGATION
-WILL BECOME CHOKED
-WITH RED TAPE.  
-BRIBING POLICE REDUCES YOUR
-NOTORIETY SIGNIFICANTLY
-(40 POINTS)."
-				"txtBribePoliceTitle" = "BRIBE POLICE:"
+				"txtBribePoliceText" = "МIСЦЕВИЙ НАЧАЛЬНИК ПОЛIЦIЁ
+ПОДБАЭ ПРО ТЕ ЩОБ 
+ВИКРИВАЛЬНI ДОКАЗИ 
+БУЛИ ВИПАДКОВО
+ЗАГУБЛЕНI. УСЕ
+РОЗЛIДУВАННЯ
+БУДЕ ЗАТЯГНУТЕ
+ТЯГАНИНОЮ.  
+ПIДКУП ПОЛIЦIЁ ЗМЕНШИТЬ
+ТВОЮ ВIДОМIСТЬ
+(40 ОЧОК)."
+				"txtBribePoliceTitle" = "ПIДКУПИТИ ПОЛIЦIЮ:"
 				"txtSendTextMessage" = "SEND TEXT MESSAGE"
 			]
 			"AvailableFunds" = "AVAILABLE FUNDS: %i"
@@ -226,20 +226,20 @@ NOTORIETY SIGNIFICANTLY
 			"BribeChiefOfPolice" = "ПIДКУПИТИ ШЕФА ПОЛIЦIЁ"
 			"BribeCivi" = "ПIДКУПИТИ СВIДКIВ"
 			"BribeMenus" [
-				"AquireNewId" = "Acquire new identity"
-				"BribeCiv" = "Підкупити свідків"
-				"BribeCivBox" = "Locals who’ve seen or heard you will grow suddenly forgetful.  Memories will fade.  Potential witnesses will think twice about speaking up.  
-Bribing civilians lowers your notoriety a little."
-				"BribeLocPol" = "Bribe local police"
-				"BribePoliceBox" = "The local chief of police will see to it that any incriminating evidence is accidentally misplaced.  The entire investigation will become choked with red tape.  
-Bribing police reduces your notoriety significantly."
-				"Bribes" = "Bribes"
-				"LowerNot" = "Lower your notoriety"
-				"NewIdentityBox" = "Journalists will be silenced.  Government and law enforcement records will be wiped.  Witnesses will disappear.  For all practical purposes you will simply cease to exist.  
-Acquiring a new identity will reset your notoriety rating."
+				"AquireNewId" = "Отримати нову iдентичнiсть"
+				"BribeCiv" = "Пiдкупити свiдкiв"
+				"BribeCivBox" = "Мiсцевi якi вас чули i бачили випадково забудуть про це. Спогади зникнуть.  Потенцiйнi свiдки двiчi подумають, перед тим як говорити.  
+Пiдкуп цивiльних трохи знижуэ вашу вiдомiсть"
+				"BribeLocPol" = "Пiдкупити мiсцеву полiцiю"
+				"BribePoliceBox" = "Мiсцевий начальник полiцiё подбаэ про те, щоб будь-якi викривальнi докази випадково були загубленi.  Усе розслiдування буде затягнуте тяганиною.  
+Пiдкуп полiцiё значно зменшуэ вашу вiдомiсть."
+				"Bribes" = "Хабарi"
+				"LowerNot" = "Знизити свою вiдомiсть"
+				"NewIdentityBox" = "Жужналiсти будуть мовчати.  Урядовi та мiсцевi записи камер будуть стертi.  Свiдки зникнуть.  Для всiх ви просто перестанете iснувати.  
+Отримання новоё iдечиностi знизить рейтинг вiдомостi."
 			]
-			"BribesHeader" = "BRIBES"
-			"BribesSubHeader" = "LOWER YOUR NOTORIETY"
+			"BribesHeader" = "ХАБАРI"
+			"BribesSubHeader" = "ЗНИЗИТИ СВОЮ ВIДОМIСТЬ"
 			"Buttons" [
 				"Accept" = "ACCEPT {ZW_SELECT4}"
 				"Accept2" = "{ZW_SELECT4} ACCEPT"
