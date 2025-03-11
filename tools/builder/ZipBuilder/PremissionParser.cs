@@ -1,14 +1,9 @@
 using System.Text;
-using System.Text.RegularExpressions;
 
 namespace ZipBuilder
 {
     public static class PremissionParser
     {
-        private static readonly Regex KeyValueRegex = new Regex(
-        @"^\s*\""(.*?)\""\s*=\s*\""((?:[^\""]|\\\"")*)\""(?:\s+(\d+)\s+(\d+))?",
-        RegexOptions.Compiled | RegexOptions.Multiline);
-
         public static PremissionHLocClass Parse(string input)
         {
             var root = new PremissionHLocClass { FullKey = "" };

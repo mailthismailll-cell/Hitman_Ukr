@@ -39,15 +39,12 @@ namespace ZipBuilder
 
         public static void UpdatePermissionValues(PremissionHLocClass permissionRoot, HLocClass hLocRoot)
         {
-            // Створюємо швидкий доступ до HLocClass через FullKey
             var hLocMap = new Dictionary<string, HLocClass>();
             PopulateHLocDictionary(hLocRoot, hLocMap);
 
-            // Оновлюємо значення в PremissionHLocClass
             UpdateValues(permissionRoot, hLocMap);
         }
 
-        // Метод для заповнення словника FullKey → HLocClass
         private static void PopulateHLocDictionary(HLocClass node, Dictionary<string, HLocClass> map)
         {
             if (!string.IsNullOrEmpty(node.FullKey))
@@ -63,60 +60,18 @@ namespace ZipBuilder
                 }
             }
         }
-
-        // Метод для оновлення значень у PremissionHLocClass
+ 
         private static void UpdateValues(PremissionHLocClass node, Dictionary<string, HLocClass> hLocMap)
         {
             if (hLocMap.TryGetValue(node.FullKey, out var hLocNode))
             {
-                node.Value = hLocNode.value; // Копіюємо значення з HLocClass у PremissionHLocClass
+                node.Value = hLocNode.value;
             }
 
             foreach (var child in node.Children)
             {
                 UpdateValues(child, hLocMap);
             }
-        }
-
-        static void convertloctotxt()
-        {
-            string locFolder = @"C:\Users\roman\OneDrive\Desktop\Hitman_Ukr\loc";
-            string[] files = Directory.GetFiles(locFolder, "*.LOC");
-
-            for (int i1 = 0; i1 < files.Length; i1++)
-            {
-                string file = files[i1];
-                string fileName = Path.GetFileName(file);
-                var newfile = Path.ChangeExtension(file, "txt");
-
-                Process process = new Process()
-                {
-                    StartInfo = new ProcessStartInfo
-                    {
-                        FileName = "hitmanki",
-                        Arguments = $"\"{file}\" \"{newfile}\"",
-                        RedirectStandardOutput = true,
-                        RedirectStandardError = true,
-                        UseShellExecute = false,
-                        CreateNoWindow = true
-                    }
-                };
-
-                Console.WriteLine($"Processing: {fileName} -> {newfile}");
-                process.Start();
-                process.WaitForExit();
-
-                string output = process.StandardOutput.ReadToEnd();
-                string error = process.StandardError.ReadToEnd();
-
-                if (!string.IsNullOrEmpty(output))
-                    Console.WriteLine(output);
-                if (!string.IsNullOrEmpty(error))
-                    Console.WriteLine($"Error: {error}");
-
-            }
-
-
         }
 
         static void ConvertFromTxtToLoc()
