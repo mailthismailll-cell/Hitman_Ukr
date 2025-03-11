@@ -8550,7 +8550,7 @@
             {
               "name": "Longname",
               "org_tbyte": 9,
-              "value": "Дроти з транквiлiзатором",
+              "value": "Дротики з транквiлiзатором",
               "numChildren": 0,
               "type": "data"
             },
@@ -8634,7 +8634,7 @@
             {
               "name": "Description",
               "org_tbyte": 9,
-              "value": "Цвяхи для цвяхiв",
+              "value": "Цвяхи для цвяхомета",
               "numChildren": 0,
               "type": "data"
             },
@@ -8795,7 +8795,7 @@
             {
               "name": "Shortname",
               "org_tbyte": 9,
-              "value": "БЕЙСХIБНА БIТА",
+              "value": "БЕЙСБОЛЬНА БИТА",
               "numChildren": 0,
               "type": "data"
             }
@@ -8823,7 +8823,7 @@
             {
               "name": "Shortname",
               "org_tbyte": 9,
-              "value": "БЕЙСХIБНА БIТА",
+              "value": "БЕЙСБОЛЬНА БИТА",
               "numChildren": 0,
               "type": "data"
             }
@@ -9103,7 +9103,7 @@
             {
               "name": "Shortname",
               "org_tbyte": 9,
-              "value": "М'ЯСНИЦЬКА ТЕСАК",
+              "value": "М'ЯСНИЦЬКИЙ ТЕСАК",
               "numChildren": 0,
               "type": "data"
             }
@@ -9180,14 +9180,14 @@
             {
               "name": "Longname",
               "org_tbyte": 9,
-              "value": "Пиляння для нiгтiв",
+              "value": "Пилочка для нiгтiв",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Shortname",
               "org_tbyte": 9,
-              "value": "Пиляння для нiгтiв",
+              "value": "Пилочка для нiгтiв",
               "numChildren": 0,
               "type": "data"
             }
@@ -9201,21 +9201,21 @@
             {
               "name": "Description",
               "org_tbyte": 9,
-              "value": "Кiрка годиться для розбивання камiння та iнших твердолобих перешкод",
+              "value": "Чокан годиться для розбивання камiння та iнших твердолобих перешкод",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Longname",
               "org_tbyte": 9,
-              "value": "КIРКА",
+              "value": "ЧОКАН",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Shortname",
               "org_tbyte": 9,
-              "value": "КIРКА",
+              "value": "ЧОКАН",
               "numChildren": 0,
               "type": "data"
             }
@@ -9229,21 +9229,21 @@
             {
               "name": "Description",
               "org_tbyte": 9,
-              "value": "Заляпана кров'ю",
+              "value": "Заляпаний кров'ю",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Longname",
               "org_tbyte": 9,
-              "value": "КIРКА",
+              "value": "ЧОКАН",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Shortname",
               "org_tbyte": 9,
-              "value": "КIРКА",
+              "value": "ЧОКАН",
               "numChildren": 0,
               "type": "data"
             }
@@ -9257,21 +9257,21 @@
             {
               "name": "Description",
               "org_tbyte": 9,
-              "value": "Вила - не тiльки частина карнавального костюма,\nа й зброю диявола.",
+              "value": "Вила - не тiльки частина карнавального костюма,\nа й зброя диявола.",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Longname",
               "org_tbyte": 9,
-              "value": "ВIЛИ",
+              "value": "ВИЛА",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Shortname",
               "org_tbyte": 9,
-              "value": "ВIЛИ",
+              "value": "ВИЛА",
               "numChildren": 0,
               "type": "data"
             }
@@ -9432,14 +9432,14 @@
             {
               "name": "Longname",
               "org_tbyte": 9,
-              "value": "ТРИСТЬ З МЕЧОМ",
+              "value": "ТРОСТИНА З МЕЧОМ",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Shortname",
               "org_tbyte": 9,
-              "value": "ТРИСТЬ З МЕЧОМ",
+              "value": "ТРОСТИНА З МЕЧОМ",
               "numChildren": 0,
               "type": "data"
             }
@@ -10034,21 +10034,21 @@
             {
               "name": "Description",
               "org_tbyte": 9,
-              "value": "Туристська валiза",
+              "value": "Туристична валiза",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Longname",
               "org_tbyte": 9,
-              "value": "Туристська валiза",
+              "value": "Туристична валiза",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "Shortname",
               "org_tbyte": 9,
-              "value": "ТУРИСТСЬКА Валiза",
+              "value": "ТУРИСТИЧНА Валiза",
               "numChildren": 0,
               "type": "data"
             }
