@@ -168,14 +168,14 @@
 ваш рахунок."
 				"tcrCableInsertedHeader" = "МЕРЕЖЕВИЙ КАБЕЛЬ ВСТАВЛЕНО"
 				"tcrCableInsertedMessage" = "Мережевий кабель вставлено."
-				"tcrCableMissing" = "Мережевий кабель вiд’эднано.
-Ви втратили з’эднання з Xbox Live."
+				"tcrCableMissing" = "Мережевий кабель вiд'эднано.
+Ви втратили з'эднання з Xbox Live."
 				"tcrContinue" = "НАТИСНIТЬ {ZW_SELECT}, ЩОБ ПРОДОВЖИТИ"
 				"tcrDuplicateSignIn" = "ДУБЛIКАТИ ВХIДУ"
 				"tcrInvalidUser" = "Цей рахунок не поточний. Натиснiть {ZW_SELECT}, щоб оновити
 облiковий запис у режимi вiдновлення або {ZW_SELECT3} для скасування.
 Будь-який незбережений прогрес буде втрачено."
-				"tcrLostConnection" = "ЗВ’ЯЗОК ВТРАТО"
+				"tcrLostConnection" = "ЗВ'ЯЗОК ВТРАТО"
 				"tcrNoConnectionLive" = "МЕРЕЖЕВИЙ КАБЕЛЬ ВIДКЛЮЧЕНО"
 				"tcrRequiredUpdate" = "ПОТРIБНЕ ОНОВЛЕННЯ"
 				"tcrServiceBusy" = "СЕРВЕРИ ЗАЙНЯТI"
@@ -742,9 +742,9 @@ Laëtitia Wajnapel"
 				"Info10Header" = "ВIДРIЛЮВАННЯ ЛЮДЕЙ"
 				"Info11" = "Незважаючи на те, що маскування дозволить вам отримати доступ до зон обмеженого доступу, ви повиннi бути обережними, тому що деякi люди побачать крiзь вашу маску i розiрвуть ваше прикриття. Уважно стежте за вiзуальним iндикатором на HUD у нижньому лiвому кутi." 523296 523296
 				"Info11Header" = "ВИКОРИСТАННЯ МАСКУВАНЬ"
-				"Info12" = "Карта дуже корисна для планування вашого пiдходу. Ви можете використовувати його, щоб знаходити своё цiлi, стежити за охоронцями та знаходити цiкавi мiсця.  Однак пам’ятайте, що вибраний вами рiвень складностi вплине на те, скiльки iнформацiё буде вiдкрито на картi!" 523504 523504
+				"Info12" = "Карта дуже корисна для планування вашого пiдходу. Ви можете використовувати його, щоб знаходити своё цiлi, стежити за охоронцями та знаходити цiкавi мiсця.  Однак пам'ятайте, що вибраний вами рiвень складностi вплине на те, скiльки iнформацiё буде вiдкрито на картi!" 523504 523504
 				"Info12Header" = "КАРТА"
-				"Info13" = "Пiд час виконання мiсiё час вiд часу пiд компасом у верхнiй частинi екрана з’являэться знак оклику. Це означаэ, що до брифiнгу вашоё мiсiё додано нову вiдповiдну iнформацiю. Прочитайте його, оскiльки вiн дасть вам пiдказки щодо важливих подiй мiсiё." 523712 523712
+				"Info13" = "Пiд час виконання мiсiё час вiд часу пiд компасом у верхнiй частинi екрана з'являэться знак оклику. Це означаэ, що до брифiнгу вашоё мiсiё додано нову вiдповiдну iнформацiю. Прочитайте його, оскiльки вiн дасть вам пiдказки щодо важливих подiй мiсiё." 523712 523712
 				"Info13Header" = "ЗНАК ОКЛИКУ"
 				"Info14" = "У будь-який момент гри ви можете отримати доступ до брифiнгу мiсiё, натиснувши кнопку брифiнгу мiсiё. Тут ви можете вiдтворити брифiнг, прочитати iнформацiю, яка мала мiсце пiд час мiсiё, i прочитати додатковi розвiдданi." 523920 523920
 				"Info14Header" = "БРИФIНГ МIСIЁ"
@@ -755,13 +755,13 @@ Laëtitia Wajnapel"
 				"AreYouSureProgressLost" = "Увесь поточний незбережений прогрес буде втрачено пiд час завантаження збереження в грi, ви впевненi?"
 				"AreYouSureSaveGameLoss" = "Ви впевненi, що збереженi iгри в грi буде втрачено?"
 				"ControllerLossPS2" = "Аналоговий контролер DUALSHOCK®2 не виявлено. Пiдключiть аналоговий контролер DUALSHOCK®2 до порту контролера 1 i натиснiть кнопку СТАРТ, щоб продовжити."
-				"ControllerLossPS2_SCEE" = "Аналоговий контролер (DUALSHOCK®2) не виявлено. Пiд’эднайте аналоговий контролер (DUALSHOCK®2) до порту контролера 1 i натиснiть кнопку СТАРТ, щоб продовжити."
+				"ControllerLossPS2_SCEE" = "Аналоговий контролер (DUALSHOCK®2) не виявлено. Пiд'эднайте аналоговий контролер (DUALSHOCK®2) до порту контролера 1 i натиснiть кнопку СТАРТ, щоб продовжити."
 				"ControllerLossXBOX" = "Повторно пiдключiть контролер i натиснiть START, щоб продовжити."
-				"DeleteRequiresSignin" = "Ви не ввiйшли в профiль. Щоб видалити кар’эру, вам потрiбно буде ввiйти в профiль."
+				"DeleteRequiresSignin" = "Ви не ввiйшли в профiль. Щоб видалити кар'эру, вам потрiбно буде ввiйти в профiль."
 				"DTV480pInfo" = "Дисплей тепер у прогресивному режимi. Бажаэте зберегти цей режим вiдображення? (Через 15 секунд дисплей повернеться до вихiдного режиму, якщо не буде вiдповiдi.)"
 				"DTV480pWarning" = "Перемикання в прогресивний режим може не дати належних результатiв вiдображення на вашому телевiзорi. У такому випадку, будь ласка, зачекайте 15 секунд для автоматичного перемикання назад у вихiдний режим."
 				"EmptyCareerName" = "Порожня назва кар'эри не допускаэться."
-				"EmptyProfileName" = "Порожнэ iм’я профiлю не допускаэться."
+				"EmptyProfileName" = "Порожнэ iм'я профiлю не допускаэться."
 				"Expert_PC" = "- Дозволено три збереження
 -Покращена поведiнка ШI
 - Зменшена допомога агентства
@@ -778,7 +778,7 @@ Laëtitia Wajnapel"
 - Зменшена допомога агентства
 -Дiя слави
 -Оцiнка впливу доказiв"
-				"LoadRequiresSignin" = "Ви не ввiйшли в профiль. Щоб завантажити кар’эру, вам потрiбно буде ввiйти в профiль."
+				"LoadRequiresSignin" = "Ви не ввiйшли в профiль. Щоб завантажити кар'эру, вам потрiбно буде ввiйти в профiль."
 				"NonConcealableWeaponDialog" = "Щоб уникнути зайвоё уваги громадськостi, вашi %s, якi не можна приховувати, будуть розмiщенi Агентством у контейнерi на територiё.
 Знайдiть точне мiсце розташування за допомогою карти та знайдiть значок ICA."
 				"Normal_PC" = "- Дозволено сiм збереження
@@ -819,7 +819,7 @@ Laëtitia Wajnapel"
 				"QuitGameConfirmationNoLoss" = "Ви впевненi, що хочете вийти?"
 				"QuitGameConfirmationProgressLoss" = "Прогрес поточного рiвня буде втрачено при виходi з гри. Ви хочете продовжити?"
 				"RequiresProfile" = "Вам потрiбно створити новий профiль або завантажити наявний профiль перед входом у головне меню."
-				"RequiresProfileXenon" = "Перш нiж увiйти в головне меню, вам потрiбно створити нову кар’эру або завантажити наявну."
+				"RequiresProfileXenon" = "Перш нiж увiйти в головне меню, вам потрiбно створити нову кар'эру або завантажити наявну."
 				"RestartConfirmation" = "Прогрес поточного рiвня буде втрачено при перезапуску рiвня. Ви хочете продовжити?"
 				"RestartConfirmationSaveGameLoss" = "Прогрес поточного рiвня та будь-якi збереженi гри будуть втраченi пiд час перезапуску рiвня. Ви хочете продовжити?"
 				"Rookie_PC" = "-Нескiнченнi збереження
@@ -1078,62 +1078,62 @@ Laëtitia Wajnapel"
 				"missionSuitRetrival" = "ПОВЕРНЕННЯ КОСТЮМА"
 			]
 			"MemoryCard" [
-				"00" = "Недостатньо мiсця на картi пам’ятi (8 МБ) (для PlayStation®2). Вставте картку пам’ятi (8 МБ) (для PlayStation®2) iз принаймнi %i КБ вiльного мiсця або звiльнiть мiсце за допомогою внутрiшнього браузера консолi."
-				"04" = "Картка пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 не вiдформатована. Ви хочете вiдформатувати його?"
-				"05" = "Недостатньо мiсця на картцi пам’ятi (8 МБ) (для PlayStation®2) у слотi 1 для КАРТКИ ПАМ’ЯТI. Hitman Blood Money вимагаэ %dKB вiльного мiсця для збереження даних. Якщо ви бажаэте зберегти свiй профiль, вставте картку пам’ятi (8 МБ) (для PlayStation®2) iз принаймнi %iKБ вiльного мiсця або продовжуйте без збереження. Повторити?"
-				"06" = "Недостатньо мiсця на картцi пам’ятi (8 МБ) (для PlayStation®2) у слотi 1 для КАРТКИ ПАМ’ЯТI. Hitman Blood Money вимагаэ %dKB вiльного мiсця для збереження даних. Якщо ви бажаэте зберегти свiй профiль, вставте картку пам’ятi (8 МБ) (для PlayStation®2) iз принаймнi %iKБ вiльного мiсця або продовжуйте без збереження."
-				"07" = "У гнiздо MEMORY CARD 1 не вставлено карту пам’ятi (8 МБ) (для PlayStation®2)."
-				"10" = "Не вдалося зберегти! Перевiрте картку пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
-				"12" = "Збереження профiлю. Не виймайте картку пам’ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
+				"00" = "Недостатньо мiсця на картi пам'ятi (8 МБ) (для PlayStation®2). Вставте картку пам'ятi (8 МБ) (для PlayStation®2) iз принаймнi %i КБ вiльного мiсця або звiльнiть мiсце за допомогою внутрiшнього браузера консолi."
+				"04" = "Картка пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 не вiдформатована. Ви хочете вiдформатувати його?"
+				"05" = "Недостатньо мiсця на картцi пам'ятi (8 МБ) (для PlayStation®2) у слотi 1 для КАРТКИ ПАМ'ЯТI. Hitman Blood Money вимагаэ %dKB вiльного мiсця для збереження даних. Якщо ви бажаэте зберегти свiй профiль, вставте картку пам'ятi (8 МБ) (для PlayStation®2) iз принаймнi %iKБ вiльного мiсця або продовжуйте без збереження. Повторити?"
+				"06" = "Недостатньо мiсця на картцi пам'ятi (8 МБ) (для PlayStation®2) у слотi 1 для КАРТКИ ПАМ'ЯТI. Hitman Blood Money вимагаэ %dKB вiльного мiсця для збереження даних. Якщо ви бажаэте зберегти свiй профiль, вставте картку пам'ятi (8 МБ) (для PlayStation®2) iз принаймнi %iKБ вiльного мiсця або продовжуйте без збереження."
+				"07" = "У гнiздо MEMORY CARD 1 не вставлено карту пам'ятi (8 МБ) (для PlayStation®2)."
+				"10" = "Не вдалося зберегти! Перевiрте картку пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
+				"12" = "Збереження профiлю. Не виймайте картку пам'ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
 				"14" = "Збережено успiшно"
-				"16" = "На картцi пам’ятi (8 МБ) (для PlayStation®2) у слотi 1 для КАРТКИ ПАМ’ЯТI немаэ даних збереження Hitman Blood Money."
-				"17" = "Помилка карти пам’ятi (8 МБ) (для PlayStation®2)! Перевiрте картку пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
+				"16" = "На картцi пам'ятi (8 МБ) (для PlayStation®2) у слотi 1 для КАРТКИ ПАМ'ЯТI немаэ даних збереження Hitman Blood Money."
+				"17" = "Помилка карти пам'ятi (8 МБ) (для PlayStation®2)! Перевiрте картку пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
 				"19" = "Завантаження успiшне"
-				"21" = "Перевiрка карти пам’ятi (8 МБ) (для PlayStation®2) у гнiздi КАРТКИ ПАМ’ЯТI 1. Не виймайте картку пам’ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
-				"25" = "Форматування карти пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1. Не виймайте картку пам’ятi (8 МБ) (для PlayStation®2), контролер або скидайте/вимикайте консоль."
+				"21" = "Перевiрка карти пам'ятi (8 МБ) (для PlayStation®2) у гнiздi КАРТКИ ПАМ'ЯТI 1. Не виймайте картку пам'ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
+				"25" = "Форматування карти пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1. Не виймайте картку пам'ятi (8 МБ) (для PlayStation®2), контролер або скидайте/вимикайте консоль."
 				"27" = "Формат успiшно виконано"
-				"28" = "Помилка форматування! Перевiрте картку пам’ятi (8 МБ) (для PlayStation®2) i повторiть спробу."
+				"28" = "Помилка форматування! Перевiрте картку пам'ятi (8 МБ) (для PlayStation®2) i повторiть спробу."
 				"29" = "Виберiть зберегти файл для видалення."
 				"31" = "Скасувати видалення?"
-				"32" = "Видалення даних. Не виймайте картку пам’ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
+				"32" = "Видалення даних. Не виймайте картку пам'ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
 				"33" = "Видалити успiшно"
 				"34" = "Виберiть зберегти файл для перезапису."
 				"35" = "Ви впевненi, що бажаэте перезаписати цей файл збереження?"
 				"BootNoMCHeader" = "Вiдсутня карта пам'ятi (8 МБ) (для PlayStation®2)"
-				"BootNoMCMessage" = "Картку пам’ятi (8 МБ) (для PlayStation®2) не вставлено. Для збереження цих даних гри потрiбно принаймнi %iKB.
-Будь ласка, вставте картку пам’ятi (8 МБ) (для PlayStation®2) у слот MEMORY CARD 1."
+				"BootNoMCMessage" = "Картку пам'ятi (8 МБ) (для PlayStation®2) не вставлено. Для збереження цих даних гри потрiбно принаймнi %iKB.
+Будь ласка, вставте картку пам'ятi (8 МБ) (для PlayStation®2) у слот MEMORY CARD 1."
 				"BootNoSpaceHeader" = "Недостатньо мiсця"
-				"BootNoSpaceMessage" = "Недостатньо мiсця на картi пам’ятi (8 МБ) (для PlayStation®2) у слотi 1 для КАРТКИ ПАМ’ЯТI. Hitman Blood Money вимагаэ %iKB вiльного мiсця для збереження даних."
+				"BootNoSpaceMessage" = "Недостатньо мiсця на картi пам'ятi (8 МБ) (для PlayStation®2) у слотi 1 для КАРТКИ ПАМ'ЯТI. Hitman Blood Money вимагаэ %iKB вiльного мiсця для збереження даних."
 				"CancelSaveConfirmation" = "Скасувати збереження?"
 				"Continue" = "Продовжити"
 				"CorruptedSaveGame" = "Пошкоджений файл збереження"
 				"CreateConfirmation" = "Створити новий файл збереження?"
-				"CreateProfileIngame" = "Збереження профiлю. Не виймайте картку пам’ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
-				"DeleteFailed" = "Не вдалося видалити! Перевiрте картку пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
+				"CreateProfileIngame" = "Збереження профiлю. Не виймайте картку пам'ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
+				"DeleteFailed" = "Не вдалося видалити! Перевiрте картку пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
 				"Format" = "Формат"
-				"FormatConfirmation" = "Ви впевненi, що бажаэте вiдформатувати картку пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1?"
-				"InsertMC" = "Будь ласка, вставте картку пам’ятi (8 МБ) (для PlayStation®2) у слот MEMORY CARD 1."
-				"InternalError" = "Виникла внутрiшня помилка. Перевiрте картку пам’ятi (8 МБ) (для PlayStation®2) i повторiть спробу."
+				"FormatConfirmation" = "Ви впевненi, що бажаэте вiдформатувати картку пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1?"
+				"InsertMC" = "Будь ласка, вставте картку пам'ятi (8 МБ) (для PlayStation®2) у слот MEMORY CARD 1."
+				"InternalError" = "Виникла внутрiшня помилка. Перевiрте картку пам'ятi (8 МБ) (для PlayStation®2) i повторiть спробу."
 				"LoadConfirmation" = "Завантажити зберегти файл?"
-				"LoadFailed" = "Не вдалося завантажити! Перевiрте картку пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
-				"LoadGameFailed" = "Помилка карти пам’ятi (8 МБ) (для PlayStation®2)! Перевiрте картку пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
-				"LoadGameNoProfile" = "Профiль %s не iснуэ на картцi пам’ятi (8 МБ) (для PlayStation®2), вставленiй у слот 1 для КАРТКИ ПАМ’ЯТI."
-				"LoadGameProfileCorrupt" = "Профiль %s на картцi пам’ятi (8 МБ) (для PlayStation®2), вставленiй у гнiздо 1 для КАРТКИ ПАМ’ЯТI, пошкоджено."
-				"Loading" = "Завантаження даних. Не виймайте картку пам’ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
-				"MCChangedOverwriteSaveData" = "Можливо, змiнився стан карти пам’ятi (8 МБ) (для PlayStation®2) у гнiздi 1 для КАРТКИ ПАМ’ЯТI. Бажаэте перезаписати збереженi данi гри на картцi пам’ятi (8 МБ) (для PlayStation®2) у гнiздi 1 для КАРТКИ ПАМ’ЯТI?"
-				"MCChangedWriteSaveData" = "Можливо, змiнився стан карти пам’ятi (8 МБ) (для PlayStation®2) у гнiздi 1 для КАРТКИ ПАМ’ЯТI. Ви бажаэте зберегти данi гри на картку пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1?"
-				"NoAvailableProfiles" = "Немаэ вiльного мiсця для профiлю на картцi пам’ятi (8 МБ) (для PlayStation®2) у гнiздi 1 для КАРТКИ ПАМ’ЯТI. Дозволено лише %i профiлiв."
-				"NoMCFrontendSave" = "Немаэ карти пам’ятi (8 МБ) (для PlayStation®2), вставленоё в слот MEMORY CARD 1. Якщо ви бажаэте зберегти свiй профiль, вставте картку пам’ятi (8 МБ) (для PlayStation®2) iз принаймнi %iKB вiльного мiсця або продовжуйте без збереження. Повторити?"
-				"OverwriteFailed" = "Помилка перезапису! Перевiрте картку пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
+				"LoadFailed" = "Не вдалося завантажити! Перевiрте картку пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
+				"LoadGameFailed" = "Помилка карти пам'ятi (8 МБ) (для PlayStation®2)! Перевiрте картку пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
+				"LoadGameNoProfile" = "Профiль %s не iснуэ на картцi пам'ятi (8 МБ) (для PlayStation®2), вставленiй у слот 1 для КАРТКИ ПАМ'ЯТI."
+				"LoadGameProfileCorrupt" = "Профiль %s на картцi пам'ятi (8 МБ) (для PlayStation®2), вставленiй у гнiздо 1 для КАРТКИ ПАМ'ЯТI, пошкоджено."
+				"Loading" = "Завантаження даних. Не виймайте картку пам'ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
+				"MCChangedOverwriteSaveData" = "Можливо, змiнився стан карти пам'ятi (8 МБ) (для PlayStation®2) у гнiздi 1 для КАРТКИ ПАМ'ЯТI. Бажаэте перезаписати збереженi данi гри на картцi пам'ятi (8 МБ) (для PlayStation®2) у гнiздi 1 для КАРТКИ ПАМ'ЯТI?"
+				"MCChangedWriteSaveData" = "Можливо, змiнився стан карти пам'ятi (8 МБ) (для PlayStation®2) у гнiздi 1 для КАРТКИ ПАМ'ЯТI. Ви бажаэте зберегти данi гри на картку пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1?"
+				"NoAvailableProfiles" = "Немаэ вiльного мiсця для профiлю на картцi пам'ятi (8 МБ) (для PlayStation®2) у гнiздi 1 для КАРТКИ ПАМ'ЯТI. Дозволено лише %i профiлiв."
+				"NoMCFrontendSave" = "Немаэ карти пам'ятi (8 МБ) (для PlayStation®2), вставленоё в слот MEMORY CARD 1. Якщо ви бажаэте зберегти свiй профiль, вставте картку пам'ятi (8 МБ) (для PlayStation®2) iз принаймнi %iKB вiльного мiсця або продовжуйте без збереження. Повторити?"
+				"OverwriteFailed" = "Помилка перезапису! Перевiрте картку пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 i повторiть спробу."
 				"OverwriteSuccess" = "Перезаписати успiшно"
-				"Overwriting" = "Перезапис даних. Не виймайте картку пам’ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
+				"Overwriting" = "Перезапис даних. Не виймайте картку пам'ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль."
 				"ProfileExists" = "Профiль пiд назвою %s вже iснуэ. Виберiть iнше iм'я."
 				"ProfileExistsOverwrite" = "Профiль пiд назвою %s вже iснуэ. Ви бажаэте перезаписати?"
 				"Retry" = "Повторiть спробу"
-				"SaveConfirmation" = "Зберегти данi на картку пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1?"
-				"SaveMessageIngame" = "Збереження даних. Не виймайте картку пам’ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль. Примiтка. Якщо ви вийшли з поточного сеансу виконання мiсiё, увесь збережений прогрес буде втрачено."
+				"SaveConfirmation" = "Зберегти данi на картку пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1?"
+				"SaveMessageIngame" = "Збереження даних. Не виймайте картку пам'ятi (8 МБ) (для PlayStation®2), контролер i не скидайте/вимикайте консоль. Примiтка. Якщо ви вийшли з поточного сеансу виконання мiсiё, увесь збережений прогрес буде втрачено."
 				"SaveProgress" = "Зберегти прогрес?"
-				"Unformatted" = "Картка пам’ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 не вiдформатована."
+				"Unformatted" = "Картка пам'ятi (8 МБ) (для PlayStation®2) у гнiздi MEMORY CARD 1 не вiдформатована."
 			]
 			"MiscEquipment" = "РIЗНЕ ОБЛАДНАННЯ"
 			"Mission" [
@@ -1331,7 +1331,7 @@ Laëtitia Wajnapel"
 				"ErrorNoUserLong" = "Тег гравця, який ви запитали, э
 нi з ким не пов'язаний."
 				"ErrorOtherListFull" = "СПИСОК ВIДДАЛЕНИХ ДРУЗIВ ПОВНИЙ"
-				"ErrorOtherListFullLong" = "Користувач, пов’язаний iз тегом геймера, маэ повний
+				"ErrorOtherListFullLong" = "Користувач, пов'язаний iз тегом геймера, маэ повний
 список друзiв. Поки вiн/вона не видалить когось iз
 його/ёё список друзiв, з якими ви не можете бути друзями
 ця людина."
@@ -2312,7 +2312,7 @@ You are not permitted:
 This Software Product may allow services operated by Eidos and/or its affiliates or third parties authorised on their behalf to be accessed which allow users of the Software Product to enjoy certain on-line features and functionality associated with the Software Product (“Online Features”).  These services may, however, require payment of additional fees and access to and use of such services and other goods or information made available as part of such services may be subject to completion of a registration process and acceptance of additional terms and conditions.  Importantly, not all purchasers of this Software Product will be able to register or benefit from such services (including Online Features associated with the Software Product).  These services may not be available in your country or for any period of time and may, for example, be subject to age restrictions.
 
 5.  Termination
-Without prejudice to any other rights, Eidos may terminate this EULA immediately without notice if you fail to comply with the terms and conditions of this EULA. In the event of termination, you must destroy all copies of the Software Product and all of its component parts including any Software Product stored on the hard disk of any computer.  All provisions of this EULA relating to disclaimers or warranties, limitations of liability, remedies, or damages and Eidos’ proprietary rights shall survive termination.
+Without prejudice to any other rights, Eidos may terminate this EULA immediately without notice if you fail to comply with the terms and conditions of this EULA. In the event of termination, you must destroy all copies of the Software Product and all of its component parts including any Software Product stored on the hard disk of any computer.  All provisions of this EULA relating to disclaimers or warranties, limitations of liability, remedies, or damages and Eidos' proprietary rights shall survive termination.
 
 6.  Ownership
 You only own the media on which the Software Product is recorded. Eidos and/or its licensors shall at all times retain ownership of the Software Product as recorded on the media and all subsequent copies regardless of form.
@@ -2323,7 +2323,7 @@ You only own the media on which the Software Product is recorded. Eidos and/or i
 
 This limited warranty is in addition to, and does not affect, your statutory rights.
 Eidos warrants to the original purchaser of this Software Product that the physical medium on which the Software Product is recorded will under normal use and conditions be free from material defects in materials and workmanship for a period of ninety (90) days from the date of purchase. The entire liability of Eidos under this limited warranty will be, at Eidos' sole option, either (a) to return of the 
-purchase price paid; or (b) to repair or, at Eidos’ option, to replace free of charge the Software Product that does not meet this limited warranty provided you return the original physical medium in its original condition to the point of purchase or Eidos at the address specified in the manual accompanying this Software Product, together with a dated proof of purchase, a statement describing the defects and a return address. Eidos will pay the costs of sending a replacement Software Product to you. 
+purchase price paid; or (b) to repair or, at Eidos' option, to replace free of charge the Software Product that does not meet this limited warranty provided you return the original physical medium in its original condition to the point of purchase or Eidos at the address specified in the manual accompanying this Software Product, together with a dated proof of purchase, a statement describing the defects and a return address. Eidos will pay the costs of sending a replacement Software Product to you. 
 
 7.2  The limited warranty in paragraph 7.1 above is void and shall not apply to media which has been subject to misuse, accident, damage or excessive wear. Any replacement Software Product will be warranted for the remainder of 
 the original warranty period or thirty (30) days, whichever is longer.
@@ -2397,7 +2397,7 @@ OF THE USE OF OR INABILITY TO USE THIS SOFTWARE PRODUCT, EVEN IF EIDOS HAS BEEN 
 				"Notice201" = "Пiдтримуване мережеве обладнання неправильно пiдключено до консолi PlayStation2.
 
 Встановiть мережевий адаптер i повторiть спробу."
-				"Notice202" = "Немаэ файлу конфiгурацiё мережi на картцi пам’ятi (PS2) у гнiздi MEMORY CARD.
+				"Notice202" = "Немаэ файлу конфiгурацiё мережi на картцi пам'ятi (PS2) у гнiздi MEMORY CARD.
 
 Скористайтеся завантажувальним диском мережевого адаптера, щоб створити файл конфiгурацiё мережi."
 				"Notice203" = "Ваш файл конфiгурацiё мережi було створено на iншiй консолi PlayStation2 i не може використовуватися.
@@ -2413,10 +2413,10 @@ OF THE USE OF OR INABILITY TO USE THIS SOFTWARE PRODUCT, EVEN IF EIDOS HAS BEEN 
 Гнiздо для КАРТКИ ПАМ'ЯТI. Що б ви хотiли
 робити?"
 				"Notice410" = "Вхiд на сервер лобi Hitman Bloodmoney"
-				"Notice411" = "Введене вами онлайн-iм’я вже э
+				"Notice411" = "Введене вами онлайн-iм'я вже э
 використовувати. Будь ласка, увiйдiть, використовуючи iнший Iнтернет
 Назвiть або спробуйте увiйти пiзнiше."
-				"Notice412" = "Ви ввели недiйсне онлайн-iм’я або
+				"Notice412" = "Ви ввели недiйсне онлайн-iм'я або
 пароль. Будь ласка, перевiрте введене
 iнформацiю та спробуйте ще раз."
 				"Notice413" = "Пiдключення до серверiв лобi (Hitman: Blood Money).
@@ -2432,7 +2432,7 @@ iнформацiю та спробуйте ще раз."
 				"Notice416" = "Завантаження статистики"
 				"Notice417" = "Завантаження списку друзiв"
 				"Notice500" = "Запит пароля онлайн-облiкового запису"
-				"Notice501" = "Ви ввели недiйсне онлайн-iм’я.
+				"Notice501" = "Ви ввели недiйсне онлайн-iм'я.
 Будь ласка, перевiрте назву в Iнтернетi та повторiть спробу."
 				"Notice510" = "На електронну пошту надiслано лист
 адреса, яка використовуэться пiд час створення вашого Iнтернету
@@ -2448,7 +2448,7 @@ iнформацiю та спробуйте ще раз."
 Перевiрте свiй пароль i повторiть спробу."
 				"Notice603" = "Введена адреса електронноё пошти недiйсна.
 Перевiрте адресу електронноё пошти та повторiть спробу."
-				"Notice604" = "Ваше онлайн-iм’я маэ бути вiд 4 до
+				"Notice604" = "Ваше онлайн-iм'я маэ бути вiд 4 до
 15 символiв, не мiстити нецензурноё лексики та мiстити
 без пробiлiв i спецiальних символiв.
 Будь ласка, перевiрте своэ онлайн-iм'я та повторiть спробу."
@@ -2458,13 +2458,13 @@ iнформацiю та спробуйте ще раз."
 до вiкових обмежень для онлайн-частини
 ця гра."
 				"Notice620" = "Створення облiкового запису Eidos Online"
-				"Notice621" = "Введене онлайн-iм’я недiйсне.
-Введiть iнше онлайн-iм’я.
+				"Notice621" = "Введене онлайн-iм'я недiйсне.
+Введiть iнше онлайн-iм'я.
 Кiлькiсть онлайн-iмен маэ бути вiд 4 до 15
 символiв, не мiстити ненормативноё лексики та мiстити
 без пробiлiв i спецiальних символiв."
-				"Notice622" = "Введене вами iм’я в мережi вже э
-використовувати. Введiть iнше онлайн-iм’я."
+				"Notice622" = "Введене вами iм'я в мережi вже э
+використовувати. Введiть iнше онлайн-iм'я."
 				"Notice623" = "Внутрiшня помилка сервера. Спробуйте ще раз."
 				"Notice630" = "Ваш облiковий запис Eidos Online створено
 успiшно. Цей облiковий запис тепер зберiгаэться на
@@ -2476,7 +2476,7 @@ iнформацiя дозволяэ швидко ввiйти до
 Сервери лобi Hitman Bloodmoney.
 
 Ви хочете зберегти свiй облiковий запис онлайн
-iнформацiю на картку пам’ятi (PS2).
+iнформацiю на картку пам'ятi (PS2).
 Гнiздо для КАРТИ ПАМ'ЯТI 1?"
 				"Notice712" = "Перезапис збереженого облiкового запису збереже новий
 Збережений акаунт на своэму мiсцi. Вашi перезаписанi
@@ -2490,7 +2490,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"Notice730" = "Ви впевненi, що бажаэте очистити збережений облiковий запис?"
 				"Notice800" = "Оновлення для Hitman Bloodmoney тепер доступне для
 завантажити. Щоб продовжити Hitman bloodmoney Online, the
-оновлення необхiдно завантажити та зберегти на карту пам’ятi (PS2).
+оновлення необхiдно завантажити та зберегти на карту пам'ятi (PS2).
 Бажаэте завантажити та зберегти оновлення зараз?"
 				"Notice810" = "Завантаження"
 				"Notice820" = "Оновлення успiшне"
@@ -2791,7 +2791,7 @@ Iснуючий облiковий запис Eidos Online Login
 Будь-який незбережений прогрес буде втрачено."
 				"PassCodeHeader" = "ВВЕДЕННЯ КОДУ"
 				"PassCodeMessage" = "Будь ласка, введiть код доступу з чотирма кнопками
-пов’язанi з цим облiковим записом."
+пов'язанi з цим облiковим записом."
 				"PassCodeWrong" = "Код доступу, який ви ввели, неправильний."
 				"ServersTooBusy" = "Xbox Live! служба зайнята"
 				"UpdateRequired" = "Доступне необхiдне оновлення для Xbox Live! обслуговування. Ви не можете пiдключитися до Xbox Live! доки не буде встановлено оновлення"
@@ -2834,10 +2834,10 @@ Iснуючий облiковий запис Eidos Online Login
 				"InsufficientSpace" = "На запам'ятовуючому пристроё недостатньо мiсця. Збережена кар'эра потребуэ 200 Кб пам'ятi."
 				"LoadingProfile" = "Завантаження кар'эри"
 				"LookingForProfiles" = "Шукаю iснуючу кар'эру"
-				"NoAvailableProfiles" = "Кар'эру створити не вдалося. Hitman Blood Money дозволяэ %i кар'эри. Видалiть одну або кiлька кар’эр, перш нiж створювати нову кар’эру."
+				"NoAvailableProfiles" = "Кар'эру створити не вдалося. Hitman Blood Money дозволяэ %i кар'эри. Видалiть одну або кiлька кар'эр, перш нiж створювати нову кар'эру."
 				"NoDeviceSelected" = "Жоден запам'ятовуючий пристрiй не вибрано."
-				"NoProfiles" = "На пристроё зберiгання немаэ кар’эр."
-				"OverwriteConfirmationProfile" = "Ви впевненi, що хочете перезаписати кар’эру пiд назвою %s, будь-який збережений прогрес буде втрачено?"
+				"NoProfiles" = "На пристроё зберiгання немаэ кар'эр."
+				"OverwriteConfirmationProfile" = "Ви впевненi, що хочете перезаписати кар'эру пiд назвою %s, будь-який збережений прогрес буде втрачено?"
 				"ProfileDamaged" = "Кар'эру пошкоджено, ёё неможливо завантажити."
 				"ProfileExists" = "Кар'эра пiд назвою %s вже iснуэ. Виберiть iнше iм'я."
 				"ProfileExistsOverwrite" = "Перезаписати кар'эру пiд назвою %s?"
@@ -3304,7 +3304,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"Weight" = "2880 р."
 			]
 			"Equip_Adrenaline_01" [
-				"Description" = "Адреналiн швидко наповнюэ ваше тiло i даэ вам короткий заряд здоров'я. Але лише для того, щоб залишити ваше тiло рiвно стiльки здоров’я, щоб ви вижили."
+				"Description" = "Адреналiн швидко наповнюэ ваше тiло i даэ вам короткий заряд здоров'я. Але лише для того, щоб залишити ваше тiло рiвно стiльки здоров'я, щоб ви вижили."
 				"Longname" = "АДРЕНАЛIНОВИЙ ШОТ"
 				"Shortname" = "АДРЕНАЛIН"
 			]
@@ -3358,7 +3358,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"ShortName" = "ЛIКЕР"
 			]
 			"Food_BottlePort_01" [
-				"Description" = "Цей верх кроп-порту витримав у бочках вiд хересу, що надаэ йому м’якостi та заспокiйливостi 
+				"Description" = "Цей верх кроп-порту витримав у бочках вiд хересу, що надаэ йому м'якостi та заспокiйливостi 
 смак."
 				"Longname" = "Вiнтажний портвейн. 1958 рiк."
 				"Shortname" = "ВИНТАЖНИЙ ПОРТ. 1958 рiк."
@@ -3854,7 +3854,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"Shortname" = "РУЧКА"
 			]
 			"Item_PhoneNumberSheik_01" [
-				"Description" = "Цей номер телефону э прямим номером зв’язку з шейхом Мохаммадом бiн Фейсалом Аль-Халiфою"
+				"Description" = "Цей номер телефону э прямим номером зв'язку з шейхом Мохаммадом бiн Фейсалом Аль-Халiфою"
 				"Longname" = "Номер телефону Шейха"
 				"Shortname" = "НОМЕР ТЕЛЕФОНУ ШЕЙКА"
 			]
@@ -3936,7 +3936,7 @@ Iснуючий облiковий запис Eidos Online Login
 			]
 			"Item_VHSCassette_01" [
 				"Description" = "Компрометуючi вiдео зi знаменитостями в модi. У цьому конкретному прикладi показано, як син губернатора жорстоко розбещуэ та вбиваэ працюючу дiвчину 
-вибуховий матерiал, м’яко кажучи."
+вибуховий матерiал, м'яко кажучи."
 				"Longname" = "Вiдеозапис"
 				"Shortname" = "ВIДЕОКАСЕТА"
 			]
@@ -3945,7 +3945,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"Shortname" = "КАСЕТА VHS"
 			]
 			"Item_WalkieTalkie_01" [
-				"Description" = "Walkie Talkie використовуэться як основне джерело зв’язку мiж \"Birds\""
+				"Description" = "Walkie Talkie використовуэться як основне джерело зв'язку мiж \"Birds\""
 				"Longname" = "Рацiя"
 				"Shortname" = "РАЦIЯ"
 			]
@@ -4126,7 +4126,7 @@ Iснуючий облiковий запис Eidos Online Login
 				"InterestPoint" = "ЦIКАВКА"
 				"Ladder" = "драбина"
 				"Neutral" = "ЦИВIЛЬНИЙ"
-				"OptionalTarget" = "НЕОБОВ’ЯЗКОВА МIШЕНЬ"
+				"OptionalTarget" = "НЕОБОВ'ЯЗКОВА МIШЕНЬ"
 				"Pickup" = "ОБЛАДНАННЯ"
 				"Police" = "ПОЛIЦIЯ"
 				"PowerSwitch" = "ВИМИКАЧ ЖИВЛЕННЯ"
@@ -6513,7 +6513,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"M00_GMRHMAHM_01LGM" = "[<i>Iспанський акцент</i>] У нас э компанiя!"
 				"M00_GMRHMAHM_02LGM" = "[<i>Iспанський акцент</i>] Це наркотичний засiб!"
 				"M00_GMRHMAHM_03LGM" = "[<i>Iспанський акцент</i>] Вiн один!"
-				"M00_GMRHMAHM_04LGM" = "[<i>Iспанський акцент</i>] Давайте вб’эмо його!"
+				"M00_GMRHMAHM_04LGM" = "[<i>Iспанський акцент</i>] Давайте вб'эмо його!"
 			]
 			"GangMembersReactHMasHomeless" [
 				"M00_GMRHMAH_01LGM" = "[<i>Iспанський акцент</i>] Хе... у нас э аудиторiя."
@@ -6558,7 +6558,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"M00_HWBHM_02Homeless" = "[<i>Наляканий</i>] Що?  що?  [<i>Миттэво знову засинаэ та знову починаэ хропiти</i>]"
 			]
 			"HomlessSingsAHappyTune" [
-				"M00_HSAHT_01Homeless" = "[<i>Спiваэ жахливим хрипким бурмотiнням </i>] Walkin’ on sunshine... yeah yeah.  Я гуляю по сонечку.  Так, так, так.  Я гуляю по сонечку.  I починаэш вiдчувати себе добре!  [<i>Наспiвуэ або бурмоче ще трохи пiснi та стихаэ</i>]"
+				"M00_HSAHT_01Homeless" = "[<i>Спiваэ жахливим хрипким бурмотiнням </i>] Walkin' on sunshine... yeah yeah.  Я гуляю по сонечку.  Так, так, так.  Я гуляю по сонечку.  I починаэш вiдчувати себе добре!  [<i>Наспiвуэ або бурмоче ще трохи пiснi та стихаэ</i>]"
 			]
 			"SmugglerGivesKillOrder" [
 				"M00_SGKO_01Smuggler" = "Убий його."
@@ -6582,7 +6582,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"M00_Intro_BackGrS_08TAM" = "..сотнi членiв сiмей зiбралися сьогоднi бiля безлюдного парку, щоб вшанувати другу рiчницю трагедiё в Саутленд-Парку..."
 					"M00_Intro_BackGrS_09TAF" = "— так звана команда мрiй Legal Eagles, яка захищаэ власника Southland Park Джозефа Кларенса, так званого Короля гойдалок, подаэ заяву про виключення свiдчень вiд…"
 					"M00_Intro_BackGrS_10EW" = "— Боже мiй, це було, це було..."
-					"M00_Intro_BackGrS_11RAM" = "—П’ять рокiв пiсля трагедiё закрила ворота Саутленд-Парку, але новi докази у виглядi розслiдувань безпеки до аварiё—"
+					"M00_Intro_BackGrS_11RAM" = "—П'ять рокiв пiсля трагедiё закрила ворота Саутленд-Парку, але новi докази у виглядi розслiдувань безпеки до аварiё—"
 					"M00_Intro_BackGrS_12TAF" = "—заявляэ про зловмисне переслiдування та вiрить, що нарештi його виправдають…"
 					"M00_Intro_BackGrS_13RAF" = "— каже, що витратив кожен пеннi свого стану, захищаючись вiд цих позовiв —"
 					"M00_Intro_BackGrS_14RAM" = "—до сьомоё рiчницi трагедiё—"
@@ -6609,12 +6609,12 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 			"SwingKingSnoop" [
 				"M00_SKS_01SK" = "Це, ах, минуло багато часу, Скуп, i менi було просто цiкаво, де ми подiлися з усiма грошима..."
 				"M00_SKS_02Snoop" = "Ви були?"
-				"M00_SKS_03SK" = "Так, бачиш, справа в тому, що якщо ти пам’ятаэш, ти знаэш, те, про що ми домовилися, це недовгий час, i ти заплатиш готiвкою i, i я знаю..."
+				"M00_SKS_03SK" = "Так, бачиш, справа в тому, що якщо ти пам'ятаэш, ти знаэш, те, про що ми домовилися, це недовгий час, i ти заплатиш готiвкою i, i я знаю..."
 				"M00_SKS_04SK" = "який на вас тиск, мабуть, але угода э угода, i я сподiвався, знаэте, можливо, ви можете просто заплатити те, про що ми домовилися, навiть якщо ви тут протягом"
-				"M00_SKS_05SK" = "чорт, бiльше нiж удвiчi довше, нiж ми домовилися! Але просто сплатiть початкову суму i рухайтеся далi, не вiдразу, обов’язково, але ви знаэте. Я був би вдячний."
-				"M00_SKS_06Snoop" = "немаэ"
+				"M00_SKS_05SK" = "чорт, бiльше нiж удвiчi довше, нiж ми домовилися! Але просто сплатiть початкову суму i рухайтеся далi, не вiдразу, обов'язково, але ви знаэте. Я був би вдячний."
+				"M00_SKS_06Snoop" = "нi"
 				"M00_SKS_07SK" = "Ну, бачите, справа в тому, що я фактично досi володiю парком, i..."
-				"M00_SKS_08Snoop" = "немаэ"
+				"M00_SKS_08Snoop" = "нi"
 				"M00_SKS_09SK" = "правильно.  добре  Тодi гаразд."
 			]
 		]
@@ -6715,7 +6715,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"M00_PAL_08Lawyer" = "Я представляю мiстера Кларенса... Mr. Дружина короля Свiнг." 753536 753536
 				"M00_PAL_09Psycho" = "Увесь той юридичний факультет, а тепер ти просто якийсь стервий хлопчик на дорученнях. I ось я збираюся пiдпалити твою дупу.  Мм-мм. Життя — це одна довга, темна комедiя, дурень, чи не так?" 753824 753824
 				"M00_PAL_10Lawyer" = "Я тут лише для того, щоб отримати його пiдпис на ёхнiх документах про розлучення." 754112 754112
-				"M00_PAL_11Psycho" = "Хiба це не схоже на Спока, якщо так заплутати своэ лайно? Вiн один параноёк-матерюк. Б’юсь об заклад, що ти юрист. Мм-мм. Що ж, юристи теж потребують очищення. I ви готовi." 754400 754400
+				"M00_PAL_11Psycho" = "Хiба це не схоже на Спока, якщо так заплутати своэ лайно? Вiн один параноёк-матерюк. Б'юсь об заклад, що ти юрист. Мм-мм. Що ж, юристи теж потребують очищення. I ви готовi." 754400 754400
 			]
 			"SnoopWithTroops" [
 				"M00_SWT_01GB" = "У нас э зловмисник, Скуп — якийсь придурок увiрвався на годинник ДжейЗi." 754672 754672
@@ -6803,7 +6803,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"M00_CATHM_01CarolAnne" = "хто ти??" 765168 765168
 			]
 			"ChemistEntryRandoms" [
-				"M00_CER_01Chemist" = "Що, в iм’я Бога, тут вiдбуваэться?" 406048 406048
+				"M00_CER_01Chemist" = "Що, в iм'я Бога, тут вiдбуваэться?" 406048 406048
 				"M00_CER_02Chemist" = "Куди подiлися цi ледачi?" 405440 405440
 				"M00_CER_03Chemist" = "Що в бiса тут сталося?" 406352 406352
 				"M00_CER_04Chemist" = "Хто ти в бiса?" 406656 406656
@@ -6892,7 +6892,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 			"GangBangerReactHostage" [
 				"M00_GBRH_01GB" = "Що це за дрiбниця, що стирчить iз твоэё мушки?" 332944 332944
 				"M00_GBRH_02GB" = "Ти не виграэш цього, бiлий хлопче." 331728 331728
-				"M00_GBRH_03GB" = "Ти вiдпусти його дупу, i ми вб’эмо тебе приэмно й безболiсно." 332032 332032
+				"M00_GBRH_03GB" = "Ти вiдпусти його дупу, i ми вб'эмо тебе приэмно й безболiсно." 332032 332032
 				"M00_GBRH_04GB" = "Ти не серйозно, бiлий хлопче?" 332336 332336
 				"M00_GBRH_05GB" = "Вiдпусти його, або ти станеш одним мертвим бiлим чоловiком." 332640 332640
 			]
@@ -6983,28 +6983,28 @@ people, and police are now looking for him. He´s a bald guy!\""
 Щоб запустити, утримуйте клавiшу Бiг пiд час руху. 
 Щоб пiдкрастися, утримуйте клавiшу пiдкрадання пiд час руху.
 
-Примiтка. Пам’ятайте, що ви можете будь-коли отримати доступ до додатковоё iнформацiё, натиснувши клавiшу Briefing." 782496 782496
+Примiтка. Пам'ятайте, що ви можете будь-коли отримати доступ до додатковоё iнформацiё, натиснувши клавiшу Briefing." 782496 782496
 			"01_Control_PS2" = "Елементи керування
 Використовуйте лiвий аналоговий джойстик, щоб перемiщатися по навколишньому середовищу, а правий — для керування камерою. 
 
 Злегка натиснiть на лiвий аналоговий джойстик, щоб ходити, i повнiстю, щоб бiгти. 
 Щоб пiдкрастися, утримуйте кнопку L1 пiд час руху. 
 
-Примiтка. Пам’ятайте, що ви можете будь-коли натиснути кнопку ВИБРАТИ, щоб отримати додаткову iнформацiю." 782720 782720
+Примiтка. Пам'ятайте, що ви можете будь-коли натиснути кнопку ВИБРАТИ, щоб отримати додаткову iнформацiю." 782720 782720
 			"01_Control_XBOX" = "Елементи керування
 Використовуйте лiвий джойстик, щоб пересуватися навколо середовища, i правий джойстик, щоб керувати камерою. 
 
 Злегка натиснiть лiвий джойстик, щоб ходити, i повнiстю натиснiть його, щоб бiгти. 
 Щоб непомiтно потягнути й утримувати лiвий курок пiд час руху. 
 
-Примiтка. Пам’ятайте, що ви можете будь-коли натиснути кнопку НАЗАД, щоб отримати додаткову iнформацiю." 782960 782960
+Примiтка. Пам'ятайте, що ви можете будь-коли натиснути кнопку НАЗАД, щоб отримати додаткову iнформацiю." 782960 782960
 			"01_Control_XENON" = "Елементи керування
 Використовуйте лiвий джойстик, щоб пересуватися навколо, а правий джойстик, щоб керувати камерою. 
 
 Злегка натиснiть на лiвий джойстик, щоб ходити, i повнiстю натиснiть на нього, щоб бiгти. 
 Щоб непомiтно потягнути й утримувати лiвий курок пiд час руху. 
 
-Примiтка. Пам’ятайте, що ви можете будь-коли натиснути кнопку НАЗАД, щоб отримати додаткову iнформацiю." 0
+Примiтка. Пам'ятайте, що ви можете будь-коли натиснути кнопку НАЗАД, щоб отримати додаткову iнформацiю." 0
 			"02_Obstacles" = "Перешкоди масштабування
 Деякi перешкоди та стiни можна долати, бiгаючи до них або стоячи проти них i рухаючись вперед." 783184 783184
 			"05_Doors_PC" = "Вiдкриття та закриття дверей
@@ -7581,19 +7581,19 @@ people, and police are now looking for him. He´s a bald guy!\""
 			"60_Splash_06" = "Заголовки
 Вiдображаэться у верхнiй частинi екрана \"Headlines\" will offer suggestions on what to do next." 812272 812272
 			"61_Splash_07_PC" = "Знак оклику 
-Знак оклику з’являэться щоразу, коли з’являэться нова iнформацiя. 
+Знак оклику з'являэться щоразу, коли з'являэться нова iнформацiя. 
 
 Натиснiть клавiшу Briefing, щоб у будь-який момент увiйти до iнформацiйного меню." 812512 812512
 			"61_Splash_07_PS2" = "Знак оклику 
-Знак оклику з’являэться щоразу, коли з’являэться нова iнформацiя. 
+Знак оклику з'являэться щоразу, коли з'являэться нова iнформацiя. 
 
 Натиснiть кнопку ВИБIР, щоб у будь-який момент увiйти в iнформацiйне меню." 812768 812768
 			"61_Splash_07_XBOX" = "Знак оклику
-Знак оклику з’являэться щоразу, коли з’являэться нова iнформацiя. 
+Знак оклику з'являэться щоразу, коли з'являэться нова iнформацiя. 
 
 Натиснiть кнопку НАЗАД, щоб у будь-який момент увiйти в iнформацiйне меню." 813024 813024
 			"61_Splash_07_XENON" = "Знак оклику
-Знак оклику з’являэться щоразу, коли з’являэться нова iнформацiя. 
+Знак оклику з'являэться щоразу, коли з'являэться нова iнформацiя. 
 
 Натиснiть кнопку НАЗАД, щоб у будь-який момент увiйти в iнформацiйне меню." 0
 			"62_Inventory_PC" = "Iнвентаризацiя
@@ -7696,7 +7696,7 @@ people, and police are now looking for him. He´s a bald guy!\""
 Щоб бiгти, утримуйте {Run} пiд час руху.
 Щоб прокрастися, утримуйте {CrouchSneak} пiд час руху.
 
-Примiтка. Пам’ятайте, що ви можете будь-коли натиснути {Briefing}, щоб отримати iнформацiю." 0
+Примiтка. Пам'ятайте, що ви можете будь-коли натиснути {Briefing}, щоб отримати iнформацiю." 0
 			"01_Control_PS2" = "Елементи керування
 Використовуйте лiвий аналоговий джойстик, щоб перемiщатися по навколишньому середовищу, а правий — для керування камерою. 
 
@@ -7704,14 +7704,14 @@ people, and police are now looking for him. He´s a bald guy!\""
 Щоб прокрастися, утримуйте кнопку {CrouchSneak} пiд час руху. 
 
 
-Примiтка. Пам’ятайте, що ви можете будь-коли натиснути {Briefing}, щоб отримати iнформацiю." 0
+Примiтка. Пам'ятайте, що ви можете будь-коли натиснути {Briefing}, щоб отримати iнформацiю." 0
 			"01_Control_XBOX" = "Елементи керування
 Використовуйте лiвий джойстик, щоб пересуватися навколо середовища, i правий джойстик, щоб керувати камерою.  
 
 Злегка натиснiть лiвий джойстик, щоб ходити, i повнiстю натиснiть його, щоб бiгти.
 Щоб пiдкрастися, натиснiть лiвий курок пiд час руху.
 
-Примiтка. Пам’ятайте, що ви можете будь-коли натиснути {Briefing}, щоб отримати iнформацiю." 0
+Примiтка. Пам'ятайте, що ви можете будь-коли натиснути {Briefing}, щоб отримати iнформацiю." 0
 			"02_Obstacles" = "Перешкоди масштабування
 Деякi перешкоди та стiни можна долати, бiгаючи до них або стоячи проти них i рухаючись вперед." 0
 			"05_Doors" = "Вiдкриття та закриття дверей
@@ -7916,7 +7916,7 @@ people, and police are now looking for him. He´s a bald guy!\""
 			"60_Splash_06" = "Заголовки
 Вiдображаэться у верхнiй частинi екрана \"Headlines\" will offer suggestions on what to do next." 0
 			"61_Splash_07" = "Знак оклику
-Знак оклику з’являэться щоразу, коли з’являэться нова iнформацiя.
+Знак оклику з'являэться щоразу, коли з'являэться нова iнформацiя.
 
 Натиснiть кнопку {Briefing}, щоб увiйти в iнформацiйне меню в будь-який момент." 0
 			"62_Inventory" = "Iнвентаризацiя

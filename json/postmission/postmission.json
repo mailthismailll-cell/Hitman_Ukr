@@ -730,13 +730,13 @@ Laëtitia Wajnapel"
 				"Info04Header" = "DISARMING ENEMIES"
 				"Info05" = "If a person is standing next to a railing or atop a flight of stairs, you can push them from behind by pressing the fire button" 20000 20000
 				"Info05Header" = "PUSHING PEOPLE"
-				"Info06" = "Disposing of bodies is important if you don’t want to blow your cover or raise unneeded alarms. Use crates, freezers and boxes to hide bodies in, or dispose them over railings. To do so drag them to the nearby container or rail and press the action button to dispose of the body."
+				"Info06" = "Disposing of bodies is important if you don't want to blow your cover or raise unneeded alarms. Use crates, freezers and boxes to hide bodies in, or dispose them over railings. To do so drag them to the nearby container or rail and press the action button to dispose of the body."
 				"Info06Header" = "DISPOSING BODIES"
 				"Info07" = "If you act suspicious, civilians will report your actions to the nearest guards." 20208 20208
 				"Info07Header" = "SUSPICIOUS ACTING"
 				"Info08" = "You can walk around with your fiber wire out, but if you tighten it by pressing the fire button, people will panic." 20416 20416
 				"Info08Header" = "FIBERWIRE"
-				"Info09" = "Guards and civilians will attempt to wake up unconscious persons. Therefore it’s a good idea to hide unconscious bodies if you want to prevent this from happening." 20624 20624
+				"Info09" = "Guards and civilians will attempt to wake up unconscious persons. Therefore it's a good idea to hide unconscious bodies if you want to prevent this from happening." 20624 20624
 				"Info09Header" = "UNCONSCIOUS PEOPLE"
 				"Info10" = "By throwing items you can distract people. You throw items by pressing the throw button." 20832 20832
 				"Info10Header" = "DISTRACTING PEOPLE"
@@ -1078,7 +1078,7 @@ from your friend list?"
 				"missionSuitRetrival" = "ПОВЕРНЕННЯ КОСТЮМУ"
 			]
 			"MemoryCard" [
-				"00" = "Insufficient space on Memory Card (8MB)(for PlayStation®2). Insert a Memory Card (8MB)(for PlayStation®2) with at least %i KB of free space, or create some space using the console’s internal browser."
+				"00" = "Insufficient space on Memory Card (8MB)(for PlayStation®2). Insert a Memory Card (8MB)(for PlayStation®2) with at least %i KB of free space, or create some space using the console's internal browser."
 				"04" = "Memory Card (8MB)(for PlayStation®2) in MEMORY CARD slot 1 is unformatted. Do you want to format it?"
 				"05" = "Insufficient space on Memory Card (8MB)(for PlayStation®2) in MEMORY CARD slot 1. Hitman Blood Money requires %dKB of free space to save data. If you wish to save your profile, please insert a Memory Card (8MB)(for PlayStation®2) with at least %iKB of free space or continue without saving. Retry?"
 				"06" = "Insufficient space on Memory Card (8MB)(for PlayStation®2) in MEMORY CARD slot 1. Hitman Blood Money requires %dKB of free space to save data. If you wish to save your profile, please insert a Memory Card (8MB)(for PlayStation®2) with at least %iKB of free space or continue without saving."
@@ -2312,7 +2312,7 @@ You are not permitted:
 This Software Product may allow services operated by Eidos and/or its affiliates or third parties authorised on their behalf to be accessed which allow users of the Software Product to enjoy certain on-line features and functionality associated with the Software Product (“Online Features”).  These services may, however, require payment of additional fees and access to and use of such services and other goods or information made available as part of such services may be subject to completion of a registration process and acceptance of additional terms and conditions.  Importantly, not all purchasers of this Software Product will be able to register or benefit from such services (including Online Features associated with the Software Product).  These services may not be available in your country or for any period of time and may, for example, be subject to age restrictions.
 
 5.  Termination
-Without prejudice to any other rights, Eidos may terminate this EULA immediately without notice if you fail to comply with the terms and conditions of this EULA. In the event of termination, you must destroy all copies of the Software Product and all of its component parts including any Software Product stored on the hard disk of any computer.  All provisions of this EULA relating to disclaimers or warranties, limitations of liability, remedies, or damages and Eidos’ proprietary rights shall survive termination.
+Without prejudice to any other rights, Eidos may terminate this EULA immediately without notice if you fail to comply with the terms and conditions of this EULA. In the event of termination, you must destroy all copies of the Software Product and all of its component parts including any Software Product stored on the hard disk of any computer.  All provisions of this EULA relating to disclaimers or warranties, limitations of liability, remedies, or damages and Eidos' proprietary rights shall survive termination.
 
 6.  Ownership
 You only own the media on which the Software Product is recorded. Eidos and/or its licensors shall at all times retain ownership of the Software Product as recorded on the media and all subsequent copies regardless of form.
@@ -2323,7 +2323,7 @@ You only own the media on which the Software Product is recorded. Eidos and/or i
 
 This limited warranty is in addition to, and does not affect, your statutory rights.
 Eidos warrants to the original purchaser of this Software Product that the physical medium on which the Software Product is recorded will under normal use and conditions be free from material defects in materials and workmanship for a period of ninety (90) days from the date of purchase. The entire liability of Eidos under this limited warranty will be, at Eidos' sole option, either (a) to return of the 
-purchase price paid; or (b) to repair or, at Eidos’ option, to replace free of charge the Software Product that does not meet this limited warranty provided you return the original physical medium in its original condition to the point of purchase or Eidos at the address specified in the manual accompanying this Software Product, together with a dated proof of purchase, a statement describing the defects and a return address. Eidos will pay the costs of sending a replacement Software Product to you. 
+purchase price paid; or (b) to repair or, at Eidos' option, to replace free of charge the Software Product that does not meet this limited warranty provided you return the original physical medium in its original condition to the point of purchase or Eidos at the address specified in the manual accompanying this Software Product, together with a dated proof of purchase, a statement describing the defects and a return address. Eidos will pay the costs of sending a replacement Software Product to you. 
 
 7.2  The limited warranty in paragraph 7.1 above is void and shall not apply to media which has been subject to misuse, accident, damage or excessive wear. Any replacement Software Product will be warranted for the remainder of 
 the original warranty period or thirty (30) days, whichever is longer.
@@ -2799,17 +2799,17 @@ associated with this account."
 			"XboxSaveLoad" [
 				"CheckingHD" = "Checking Xbox Hard Disk."
 				"DeleteProfile" = "Deleting profile. Please don't turn off your Xbox console."
-				"HDLowSpace" = "Your Xbox doesn’t have enough free blocks to save games. You need to free %i blocks. Press {a} to continue without saving, or {b} to free more blocks."
+				"HDLowSpace" = "Your Xbox doesn't have enough free blocks to save games. You need to free %i blocks. Press {a} to continue without saving, or {b} to free more blocks."
 				"HDStatus" = "Xbox Hard Disk AVAILABLE %s BLOCKS / TOTAL %s BLOCKS"
-				"InsufficientBlocks" = "Your Xbox doesn’t have enough free blocks to save games."
+				"InsufficientBlocks" = "Your Xbox doesn't have enough free blocks to save games."
 				"NoProfiles" = "No profiles found on the Xbox Hard Disk."
 				"ProfileDamaged" = "Profiles in red appear to be damaged and cannot be used."
 				"SaveFailedGame" = "Save failed on Xbox Hard Disk. The game could not be saved."
 				"SaveFailedProfile" = "Save failed on Xbox Hard Disk. The profile %s could not be saved."
-				"SaveGameWarning" = "Saving game. Please don’t turn off your Xbox console.
+				"SaveGameWarning" = "Saving game. Please don't turn off your Xbox console.
 
 Note: In game saves cannot be used after exiting gameplay."
-				"SaveProfileWarning" = "Saving profile. Please don’t turn off your Xbox console."
+				"SaveProfileWarning" = "Saving profile. Please don't turn off your Xbox console."
 			]
 			"Xenon" [
 				"CorruptWarning" = "Careers in red appear to be damaged and cannot be used."
@@ -2845,7 +2845,7 @@ Note: In game saves cannot be used after exiting gameplay."
 				"SaveGameWarning" = "Saving game
 
 Note: In game saves cannot be used after exiting gameplay."
-				"SaveProfileWarning" = "Saving career. Please don’t turn off your console."
+				"SaveProfileWarning" = "Saving career. Please don't turn off your console."
 				"SaveRequiresSignin" = "You are not signed into a profile. In order to save your progress within Hitman Blood Money you need to be signed into a profile"
 				"SavingProfile" = "Saving career"
 				"SelectStorageDevice" = "SELECT STORAGE DEVICE"
@@ -3111,7 +3111,7 @@ Use with caution as bystanders could get hurt"
 				"Shortname" = "SYRINGE ANTIDOTE"
 			]
 			"CC_Syringe_HeartAttack_01" [
-				"Description" = "Contains a non-lethal experimental serum, designed to drastically slow the recipient’s heartbeat and bodily functions, resulting in a form of human hibernation."
+				"Description" = "Contains a non-lethal experimental serum, designed to drastically slow the recipient's heartbeat and bodily functions, resulting in a form of human hibernation."
 				"Longname" = "Syringe Death Serum"
 				"Shortname" = "SYRINGE DEATH SERUM"
 			]
@@ -4733,35 +4733,35 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 						"BodyBaggin" [
 							"Male01" [
 								"All_G_G_E_BB_M1_01G" = "I hate this part of the job." 103648 103648
-								"All_G_G_E_BB_M1_02G" = "Never thought I’d have to do this..." 104048 104048
+								"All_G_G_E_BB_M1_02G" = "Never thought I'd have to do this..." 104048 104048
 								"All_G_G_E_BB_M1_03G" = "One size fits all…" 104448 104448
 							]
 							"Male02" [
 								"All_G_G_E_BB_M2_01G" = "I hate this part of the job." 104848 104848
-								"All_G_G_E_BB_M2_02G" = "Never thought I’d have to do this..." 105248 105248
+								"All_G_G_E_BB_M2_02G" = "Never thought I'd have to do this..." 105248 105248
 								"All_G_G_E_BB_M2_03G" = "One size fits all…" 105648 105648
 							]
 							"Male03" [
 								"All_G_G_E_BB_M3_01G" = "I hate this part of the job." 106048 106048
-								"All_G_G_E_BB_M3_02G" = "Never thought I’d have to do this..." 106448 106448
+								"All_G_G_E_BB_M3_02G" = "Never thought I'd have to do this..." 106448 106448
 								"All_G_G_E_BB_M3_03G" = "One size fits all…" 106848 106848
 							]
 						]
 						"GuardFindBrokenCamera" [
 							"Male01" [
-								"All_G_G_E_GFBC_M1_01G" = "What’s up with that?" 107264 107264
+								"All_G_G_E_GFBC_M1_01G" = "What's up with that?" 107264 107264
 								"All_G_G_E_GFBC_M1_02G" = "Since when do cameras explode?!" 107680 107680
 								"All_G_G_E_GFBC_M1_03G" = "Aw, man…  I'll never get this fixed." 108096 108096
 								"All_G_G_E_GFBC_M1_04G" = "Damn. Time to order a new camera…" 108512 108512
 							]
 							"Male02" [
-								"All_G_G_E_GFBC_M2_01G" = "What’s up with that?" 108928 108928
+								"All_G_G_E_GFBC_M2_01G" = "What's up with that?" 108928 108928
 								"All_G_G_E_GFBC_M2_02G" = "Since when do cameras explode?!" 109344 109344
 								"All_G_G_E_GFBC_M2_03G" = "Aw, man…  I'll never get this fixed." 109760 109760
 								"All_G_G_E_GFBC_M2_04G" = "Damn. Time to order a new camera…" 110176 110176
 							]
 							"Male03" [
-								"All_G_G_E_GFBC_M3_01G" = "What’s up with that?" 110592 110592
+								"All_G_G_E_GFBC_M3_01G" = "What's up with that?" 110592 110592
 								"All_G_G_E_GFBC_M3_02G" = "Since when do cameras explode?!" 111008 111008
 								"All_G_G_E_GFBC_M3_03G" = "Aw, man…  I'll never get this fixed." 111424 111424
 								"All_G_G_E_GFBC_M3_04G" = "Damn. Time to order a new camera…" 111840 111840
@@ -4769,34 +4769,34 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 						]
 						"GuardFindSuitcase" [
 							"Male01" [
-								"All_G_G_E_GFS_M1_01G" = "Hm…  What’s this lyin’ around for?" 112256 112256
+								"All_G_G_E_GFS_M1_01G" = "Hm…  What's this lyin' around for?" 112256 112256
 								"All_G_G_E_GFS_M1_02G" = "Better move this." 112672 112672
-								"All_G_G_E_GFS_M1_03G" = "Somebody must’ve forgot their suitcase...  Better stash it." 113088 113088
+								"All_G_G_E_GFS_M1_03G" = "Somebody must've forgot their suitcase...  Better stash it." 113088 113088
 							]
 							"Male02" [
-								"All_G_G_E_GFS_M2_01G" = "Hm…  What’s this lyin’ around for?" 113504 113504
+								"All_G_G_E_GFS_M2_01G" = "Hm…  What's this lyin' around for?" 113504 113504
 								"All_G_G_E_GFS_M2_02G" = "Better move this." 113920 113920
-								"All_G_G_E_GFS_M2_03G" = "Somebody must’ve forgot their suitcase...  Better stash it." 114336 114336
+								"All_G_G_E_GFS_M2_03G" = "Somebody must've forgot their suitcase...  Better stash it." 114336 114336
 							]
 							"Male03" [
-								"All_G_G_E_GFS_M3_01G" = "Hm…  What’s this lyin’ around for?" 114752 114752
+								"All_G_G_E_GFS_M3_01G" = "Hm…  What's this lyin' around for?" 114752 114752
 								"All_G_G_E_GFS_M3_02G" = "Better move this." 115168 115168
-								"All_G_G_E_GFS_M3_03G" = "Somebody must’ve forgot their suitcase...  Better stash it." 115584 115584
+								"All_G_G_E_GFS_M3_03G" = "Somebody must've forgot their suitcase...  Better stash it." 115584 115584
 							]
 						]
 						"HMStealsItem" [
 							"Male01" [
-								"All_G_G_E_HMSI_M1_01G" = "Where you think you’re goin’ with that?" 115984 115984
+								"All_G_G_E_HMSI_M1_01G" = "Where you think you're goin' with that?" 115984 115984
 								"All_G_G_E_HMSI_M1_02G" = "Yo! -- I don't think that's yours." 116384 116384
 								"All_G_G_E_HMSl_M1_03G" = "Hold it right there, pal -- bring that back!" 116784 116784
 							]
 							"Male02" [
-								"All_G_G_E_HMSI_M2_01G" = "Where you think you’re goin’ with that?" 117184 117184
+								"All_G_G_E_HMSI_M2_01G" = "Where you think you're goin' with that?" 117184 117184
 								"All_G_G_E_HMSI_M2_02G" = "Yo! -- I don't think that's yours." 117584 117584
 								"All_G_G_E_HMSl_M2_03G" = "Hold it right there, pal -- bring that back!" 117984 117984
 							]
 							"Male03" [
-								"All_G_G_E_HMSI_M3_01G" = "Where you think you’re goin’ with that?" 118384 118384
+								"All_G_G_E_HMSI_M3_01G" = "Where you think you're goin' with that?" 118384 118384
 								"All_G_G_E_HMSI_M3_02G" = "Yo! -- I don't think that's yours." 118784 118784
 								"All_G_G_E_HMSl_M3_03G" = "Hold it right there, pal -- bring that back!" 119184 119184
 							]
@@ -5077,7 +5077,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"All_NW_HN_02Diana" = "47, you are a wanted man, your face is being circulated within the main stream press! You are going to find approaching this mission without being recognised practiaclly impossible" 173920 173920
 				]
 				"LowNotoriety" [
-					"All_NW_LN_01Diana" = "You don’t want to go up against him unless you absolutely have to. As for your mission..." 174272 174272
+					"All_NW_LN_01Diana" = "You don't want to go up against him unless you absolutely have to. As for your mission..." 174272 174272
 					"All_NW_LN_02Diana" = "The media is beginning to piece togeher some of your previous actions 47, be careful not to bring any unessessary attention on to yourself" 174624 174624
 				]
 				"MediumNotoriety" [
@@ -5362,22 +5362,22 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Extras" [
 						"BodyBaggin" [
 							"All_S_G_E_BodyB_01G" = "I hate this part of the job." 223584 223584
-							"All_S_G_E_BodyB_02G" = "Never thought I’d have to do this..." 223984 223984
+							"All_S_G_E_BodyB_02G" = "Never thought I'd have to do this..." 223984 223984
 							"All_S_G_E_BodyB_03G" = "One size fits all…" 224384 224384
 						]
 						"GuardFindBrokenCamera" [
-							"All_S_G_E_GFBC_01G" = "What’s up with that?" 224800 224800
+							"All_S_G_E_GFBC_01G" = "What's up with that?" 224800 224800
 							"All_S_G_E_GFBC_02G" = "Since when do cameras explode?!" 225216 225216
 							"All_S_G_E_GFBC_03G" = "Aw, man…  I'll never get this fixed." 225632 225632
 							"All_S_G_E_GFBC_04G" = "Damn. Time to order a new camera…" 226048 226048
 						]
 						"GuardFindSuitcase" [
-							"All_S_G_E_GFS_01G" = "Hm…  What’s this lyin’ around for?" 226448 226448
+							"All_S_G_E_GFS_01G" = "Hm…  What's this lyin' around for?" 226448 226448
 							"All_S_G_E_GFS_02G" = "Better move this." 226848 226848
-							"All_S_G_E_GFS_03G" = "Somebody must’ve forgot their suitcase...  Better stash it." 227248 227248
+							"All_S_G_E_GFS_03G" = "Somebody must've forgot their suitcase...  Better stash it." 227248 227248
 						]
 						"HMStealItem" [
-							"All_S_G_E_HMSI_01G" = "Where you think you’re goin’ with that?" 227648 227648
+							"All_S_G_E_HMSI_01G" = "Where you think you're goin' with that?" 227648 227648
 							"All_S_G_E_HMSI_02G" = "Yo! -- I don't think that's yours." 228048 228048
 							"All_S_G_E_HMSI_03G" = "Hold it right there, pal -- bring that back!" 228448 228448
 						]
@@ -5690,35 +5690,35 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 						"BodyBaggin" [
 							"Male01" [
 								"All_S_G_E_BB_M1_01G" = "I hate this part of the job." 278704 278704
-								"All_S_G_E_BB_M1_02G" = "Never thought I’d have to do this..." 279104 279104
+								"All_S_G_E_BB_M1_02G" = "Never thought I'd have to do this..." 279104 279104
 								"All_S_G_E_BB_M1_03G" = "One size fits all…" 279504 279504
 							]
 							"Male02" [
 								"All_S_G_E_BB_M2_01G" = "I hate this part of the job." 279904 279904
-								"All_S_G_E_BB_M2_02G" = "Never thought I’d have to do this..." 280304 280304
+								"All_S_G_E_BB_M2_02G" = "Never thought I'd have to do this..." 280304 280304
 								"All_S_G_E_BB_M2_03G" = "One size fits all…" 280704 280704
 							]
 							"Male03" [
 								"All_S_G_E_BB_M3_01G" = "I hate this part of the job." 281104 281104
-								"All_S_G_E_BB_M3_02G" = "Never thought I’d have to do this..." 281504 281504
+								"All_S_G_E_BB_M3_02G" = "Never thought I'd have to do this..." 281504 281504
 								"All_S_G_E_BB_M3_03G" = "One size fits all…" 281904 281904
 							]
 						]
 						"GuardFindBrokenCamera" [
 							"Male01" [
-								"All_S_G_E_GFBC_M1_01G" = "What’s up with that?" 282320 282320
+								"All_S_G_E_GFBC_M1_01G" = "What's up with that?" 282320 282320
 								"All_S_G_E_GFBC_M1_02G" = "Since when do cameras explode?!" 282736 282736
 								"All_S_G_E_GFBC_M1_03G" = "Aw, man…  I'll never get this fixed." 283152 283152
 								"All_S_G_E_GFBC_M1_04G" = "Damn. Time to order a new camera…" 283568 283568
 							]
 							"Male02" [
-								"All_S_G_E_GFBC_M2_01G" = "What’s up with that?" 283984 283984
+								"All_S_G_E_GFBC_M2_01G" = "What's up with that?" 283984 283984
 								"All_S_G_E_GFBC_M2_02G" = "Since when do cameras explode?!" 284400 284400
 								"All_S_G_E_GFBC_M2_03G" = "Aw, man…  I'll never get this fixed." 284816 284816
 								"All_S_G_E_GFBC_M2_04G" = "Damn. Time to order a new camera…" 285232 285232
 							]
 							"Male03" [
-								"All_S_G_E_GFBC_M3_01G" = "What’s up with that?" 285648 285648
+								"All_S_G_E_GFBC_M3_01G" = "What's up with that?" 285648 285648
 								"All_S_G_E_GFBC_M3_02G" = "Since when do cameras explode?!" 286064 286064
 								"All_S_G_E_GFBC_M3_03G" = "Aw, man…  I'll never get this fixed." 286480 286480
 								"All_S_G_E_GFBC_M3_04G" = "Damn. Time to order a new camera…" 286896 286896
@@ -5726,34 +5726,34 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 						]
 						"GuardFindSuitcase" [
 							"Male01" [
-								"All_S_G_E_GFS_M1_01G" = "Hm…  What’s this lyin’ around for?" 287312 287312
+								"All_S_G_E_GFS_M1_01G" = "Hm…  What's this lyin' around for?" 287312 287312
 								"All_S_G_E_GFS_M1_02G" = "Better move this." 287728 287728
-								"All_S_G_E_GFS_M1_03G" = "Somebody must’ve forgot their suitcase...  Better stash it." 288144 288144
+								"All_S_G_E_GFS_M1_03G" = "Somebody must've forgot their suitcase...  Better stash it." 288144 288144
 							]
 							"Male02" [
-								"All_S_G_E_GFS_M2_01G" = "Hm…  What’s this lyin’ around for?" 288560 288560
+								"All_S_G_E_GFS_M2_01G" = "Hm…  What's this lyin' around for?" 288560 288560
 								"All_S_G_E_GFS_M2_02G" = "Better move this." 288976 288976
-								"All_S_G_E_GFS_M2_03G" = "Somebody must’ve forgot their suitcase...  Better stash it." 289392 289392
+								"All_S_G_E_GFS_M2_03G" = "Somebody must've forgot their suitcase...  Better stash it." 289392 289392
 							]
 							"Male03" [
-								"All_S_G_E_GFS_M3_01G" = "Hm…  What’s this lyin’ around for?" 289808 289808
+								"All_S_G_E_GFS_M3_01G" = "Hm…  What's this lyin' around for?" 289808 289808
 								"All_S_G_E_GFS_M3_02G" = "Better move this." 290224 290224
-								"All_S_G_E_GFS_M3_03G" = "Somebody must’ve forgot their suitcase...  Better stash it." 290640 290640
+								"All_S_G_E_GFS_M3_03G" = "Somebody must've forgot their suitcase...  Better stash it." 290640 290640
 							]
 						]
 						"HMStealsItem" [
 							"Male01" [
-								"All_S_G_E_HMSI_M1_01G" = "Where you think you’re goin’ with that?" 291040 291040
+								"All_S_G_E_HMSI_M1_01G" = "Where you think you're goin' with that?" 291040 291040
 								"All_S_G_E_HMSI_M1_02G" = "Yo! -- I don't think that's yours." 291440 291440
 								"All_S_G_E_HMSl_M1_03G" = "Hold it right there, pal -- bring that back!" 291840 291840
 							]
 							"Male02" [
-								"All_S_G_E_HMSI_M2_01G" = "Where you think you’re goin’ with that?" 292240 292240
+								"All_S_G_E_HMSI_M2_01G" = "Where you think you're goin' with that?" 292240 292240
 								"All_S_G_E_HMSI_M2_02G" = "Yo! -- I don't think that's yours." 292640 292640
 								"All_S_G_E_HMSl_M2_03G" = "Hold it right there, pal -- bring that back!" 293040 293040
 							]
 							"Male03" [
-								"All_S_G_E_HMSI_M3_01G" = "Where you think you’re goin’ with that?" 293440 293440
+								"All_S_G_E_HMSI_M3_01G" = "Where you think you're goin' with that?" 293440 293440
 								"All_S_G_E_HMSI_M3_02G" = "Yo! -- I don't think that's yours." 293840 293840
 								"All_S_G_E_HMSl_M3_03G" = "Hold it right there, pal -- bring that back!" 294240 294240
 							]
@@ -6737,7 +6737,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"003" = "Carabineros in the Santa Rosa region are reporting an unusual spike in violent activity and have issued a warning to tourists in the area."
 				"004" = "“We are advising tourists to avoid isolated rural areas in that northern region due to extensive violence.  The Peruvian and Bolivian border areas are especially unsafe for the time being,” said Carabinero spokesman Lt. Carlos Segovia."
 				"005" = "The area is not heavily-traveled by tourists, but backpackers frequently do find themselves wandering out of the Andes into dangerous cartel-controlled territories."
-				"006" = "“Some kind of cartel war seems to be heating up, and we don’t like to see tourists caught in the crossfire,” Lt. Segovia observed.  Ten to fifteen tourists and other foreigners die in the region each year, most often from exposure to the elements.  Violence typically only accounts for a small percentage of these deaths."
+				"006" = "“Some kind of cartel war seems to be heating up, and we don't like to see tourists caught in the crossfire,” Lt. Segovia observed.  Ten to fifteen tourists and other foreigners die in the region each year, most often from exposure to the elements.  Violence typically only accounts for a small percentage of these deaths."
 				"FillerLongB_PicText" = "Suspected cartel-related tourist deaths, 2004-2005."
 			]
 			"FillerLongB_Code" = "<width 248>
@@ -6817,7 +6817,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 			"Story" [
 				"001" = "American Campaign Season Underway"
 				"002" = "[Wire Copy - IPA]"
-				"003" = "One year out from next year’s presidential election, incumbent U.S. President Tom Stewart enjoys strong support, healthy approval ratings, and seems likely to win re-election.  Many Stewart supporters, however, privately concede that the emergence of cloning as a central campaign issue may hurt their man."
+				"003" = "One year out from next year's presidential election, incumbent U.S. President Tom Stewart enjoys strong support, healthy approval ratings, and seems likely to win re-election.  Many Stewart supporters, however, privately concede that the emergence of cloning as a central campaign issue may hurt their man."
 				"004" = "The American scientific community appears divided on the question.  While no scientific organizations have come out explicitly in support of human cloning, organizations such as the American Scientific Association and the American Federation of Scientists have stated their opposition to any ban on human cloning.  The National Science Group and the American Scientific Society, on the other hand, have made no secret of their opposition to research in that area, and have already promised to use support for a ban on human cloning as their presidential litmus test."
 				"005" = "According to Kim Clark, Communications Director of the Committee to Re-Elect Tom Stewart, [SEE CLONING, P. A5]"
 				"Story_PicText" = "The battle for the White House has begun."
@@ -6870,7 +6870,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"002" = "Spectators cheered as the entire Cambodian Midget Fighting League squared off against an African lion late last week."
 				"003" = "Tickets had been sold-out three weeks before the much-anticipated fight, which took place in the city of Kampong Chnang."
 				"004" = "The fight had been slated after an angry fan assailed Yang Sihamoni, President of the CMFL, claiming that a single lion could defeat his entire league of 42 fighters."
-				"005" = "The promoter took the challenge.  An African lion was shipped to centrally-located Kampong Chnang for the event, which took place Saturday in the city’s coliseum."
+				"005" = "The promoter took the challenge.  An African lion was shipped to centrally-located Kampong Chnang for the event, which took place Saturday in the city's coliseum."
 				"006" = "The Cambodian Government allowed the fight to take place under the condition that they receive a 50% commission on ticket sales, and that no cameras or mobile phones would be allowed in the arena."
 				"007" = "The fight was called off after just 12 minutes.  Twenty-eight fighters were declared dead on the scene and the other 14 suffered severe to critical injuries."
 				"008" = "Sihamoni took great pride in the league he helped create, as evidenced by a recent advertising campaign that boasted his midgets would \"take on anything; man, beast, or machine.\""
@@ -7152,7 +7152,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"001" = "Crackdown on Raves"
 				"002" = "by Pauly Vee"
 				"003" = "A spokesman for the Las Vegas Metropolitan Police Department announced yesterday that the LVMPD would be cracking down on raves and other underground parties in Las Vegas effective immediately."
-				"004" = "“These parties violate zoning laws, entertainment laws, and are often hotbeds of illegal narcotics and prostitution,” said LVPD spokesman Matthew O’Neill at a press conference on the continuing investigation into the unfortunate “Heaven and Hell” tragedies."
+				"004" = "“These parties violate zoning laws, entertainment laws, and are often hotbeds of illegal narcotics and prostitution,” said LVPD spokesman Matthew O'Neill at a press conference on the continuing investigation into the unfortunate “Heaven and Hell” tragedies."
 				"005" = "“They represent a shadow industry of illegal activity that we intend to shut down beginning right now,” the red-faced spokesman proclaimed.  \"I'm here to tell the scumbags behind the rave community: your days are numbered.  You can pack it up and get out of town, or we can hunt you down and lock you up.  Your call.\""
 				"006" = "Mr. O'Neill appears to have his work cut out for him.  Rave organizers can earn hundred of thousands to millions of dollars for a single night of underground entertainment.  And demand for the illegal parties isn't likely to diminish, especially since the fact that they're illegal to begin with [RAVE CRACKDOWN, p. 3]"
 				"FillerShortA_PicText"
@@ -7195,8 +7195,8 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"001" = "Local Reaction to Presidential Debates"
 				"002" = "by Mike Ricker"
 				"003" = "Local reaction to the first presidential debate appears to have been muted.  Telephone polls conducted yesterday suggested that neither candidate appeared to have gained or lost significant support as a result of the debate."
-				"004" = "Frank Morgan continues to be the favored candidate of 51% of Nevada’s registered voters.  Las Vegas residents continue to favor President Stewart by a large margin, although the number of undecideds appears to be rising."
-				"005" = "Both state parties claim the increase in undecided voters will benefit their candidates on Election Day, but unless President Stewart’s campaign gets some traction in rural areas, it’s extremely unlikely he’ll be able to carry the state in November."
+				"004" = "Frank Morgan continues to be the favored candidate of 51% of Nevada's registered voters.  Las Vegas residents continue to favor President Stewart by a large margin, although the number of undecideds appears to be rising."
+				"005" = "Both state parties claim the increase in undecided voters will benefit their candidates on Election Day, but unless President Stewart's campaign gets some traction in rural areas, it's extremely unlikely he'll be able to carry the state in November."
 				"006" = "When asked which candidate was strongest on national security, voters statewide favored Morgan by an almost 2-1 ratio.  When asked which candidate would do the most to protect their retirement, Stewart came out on top by the same 2-1 ratio."
 				"Story_PicText" = "Respondents: Morgan trumps Stewart"
 			]
@@ -7467,11 +7467,11 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"001" = "CIA Counter-Terrorism Experts “Stumped” by Recent Assassinations"
 				"002" = "[Compiled from wire services]"
 				"003" = "In the wake of the current wave of high-profile assassinations around the world and sensational international headlines about a shadowy group of albino terrorists, CIA Counter-Terrorism experts find themselves unusually dependent on foreign governments—and no wiser for it."
-				"004" = "“Frankly, everyone’s stumped,” says one veteran counter-terrorism operative, who spoke on condition of anonymity.  “Usually when you see this much action, on this broad a scale, you can’t help finding a smoking gun or two.  But we’ve got nothing.  Not only that--we can’t even dream up a unifying motive to figure out what they’re trying to accomplish.”"
-				"005" = "Another knowledgeable source frames the issue more bleakly.  “Any group that can do this much, this often, on this kind of scale, with this kind of reach, and remain this hidden not just to the CIA, but to virtually the entire worldwide intelligence community—well, it’s just not possible unless they’ve got at least a couple of governments in their pocket.  And that’s the really scary thing: which governments?”"
+				"004" = "“Frankly, everyone's stumped,” says one veteran counter-terrorism operative, who spoke on condition of anonymity.  “Usually when you see this much action, on this broad a scale, you can't help finding a smoking gun or two.  But we've got nothing.  Not only that--we can't even dream up a unifying motive to figure out what they're trying to accomplish.”"
+				"005" = "Another knowledgeable source frames the issue more bleakly.  “Any group that can do this much, this often, on this kind of scale, with this kind of reach, and remain this hidden not just to the CIA, but to virtually the entire worldwide intelligence community—well, it's just not possible unless they've got at least a couple of governments in their pocket.  And that's the really scary thing: which governments?”"
 				"006" = "U.S. State Department officials working in conjunction with various federal counter-terrorism units believe the usual suspects can be ruled out."
 				"007" = "\"Frankly,\" one such official told this reporter, \"most of the so-called rogue governments just don't have this kind of reach.  They don't have the independent resources they'd need to coordinate something of this magnitude.  They'd have to be working with partners, and where there are partners there are leaks.  This has to have been organized by rogue elements within the community of developed western nations...  and that's what makes it so disturbing.\""
-				"008" = "[Cont’d, p. 4]"
+				"008" = "[Cont'd, p. 4]"
 				"FillerLongA_PicText"
 			]
 			"FillerLongA_Code" = "<width 248>
@@ -7599,8 +7599,8 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 			"Story" [
 				"001" = "Donkeys Get Kick-Start from Off-Season"
 				"002" = "By Adam Sikorski"
-				"003" = "[Denver] —Real football fans know that seasons are often won and lost long before the first mini-camps of spring.  In the era of free-agency gone amok, a franchise can make or break its chances with a single clause in a single player’s contract.  One bad trade, one un-renewed contract, and you can go from Super Bowl favorites to the divisional doghouse faster than a speeding bullet pass."
-				"004" = "Orange and Blue fans should therefore take heart.  This may have been one of the best off-seasons in team history.  The already-formidable backfield has been strengthened with the re-signing of last year’s workhorses and a stellar draft.  The offensive line has been beefed up considerably and will certainly benefit from the addition of All-Pro offensive tackle Nathan Sedgefork.  Last year's suspect secondary has been completely overhauled.  And best of all, last week's acquittal of all-star wide-receiver Reggie \"Psycho\" Watson (on four of the five felony charges against him) suggests that he may be back in the line-up sooner than expected."
+				"003" = "[Denver] —Real football fans know that seasons are often won and lost long before the first mini-camps of spring.  In the era of free-agency gone amok, a franchise can make or break its chances with a single clause in a single player's contract.  One bad trade, one un-renewed contract, and you can go from Super Bowl favorites to the divisional doghouse faster than a speeding bullet pass."
+				"004" = "Orange and Blue fans should therefore take heart.  This may have been one of the best off-seasons in team history.  The already-formidable backfield has been strengthened with the re-signing of last year's workhorses and a stellar draft.  The offensive line has been beefed up considerably and will certainly benefit from the addition of All-Pro offensive tackle Nathan Sedgefork.  Last year's suspect secondary has been completely overhauled.  And best of all, last week's acquittal of all-star wide-receiver Reggie \"Psycho\" Watson (on four of the five felony charges against him) suggests that he may be back in the line-up sooner than expected."
 				"005" = "[Cont'd, p. B4]"
 				"Story_PicText" = "Ready to win."
 			]
@@ -7650,11 +7650,11 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 			"FillerLongA" [
 				"001" = "How to Replace an American Vice-President"
 				"002" = "by Stephane Collado, Political Editor"
-				"003" = "In the wake of yesterday’s tragic death of Vice-President Spaulding Burke, the eyes of the world have slowly been turning to the 25th Amendment to the U.S. Constitution.  In Section 2 of that amendment, which was ratified in 1967, it is stated that “Whenever there is a vacancy in the office of the Vice President, the President shall nominate a Vice President who shall take office upon confirmation by a majority vote of both Houses of Congress.\""
-				"004" = "Most Washington insiders believe the President has already identified a short-list of possible nominees for the office, but House Majority Leader Bill Pyne, one of the president’s most outspoken critics, has already taken the offensive, stating in a press conference late last night that any nominees opposing a ban on human cloning will be denied confirmation by the opposition congress."
+				"003" = "In the wake of yesterday's tragic death of Vice-President Spaulding Burke, the eyes of the world have slowly been turning to the 25th Amendment to the U.S. Constitution.  In Section 2 of that amendment, which was ratified in 1967, it is stated that “Whenever there is a vacancy in the office of the Vice President, the President shall nominate a Vice President who shall take office upon confirmation by a majority vote of both Houses of Congress.\""
+				"004" = "Most Washington insiders believe the President has already identified a short-list of possible nominees for the office, but House Majority Leader Bill Pyne, one of the president's most outspoken critics, has already taken the offensive, stating in a press conference late last night that any nominees opposing a ban on human cloning will be denied confirmation by the opposition congress."
 				"005" = "Most analysts believe the popular President Stewart has the political capital to withstand such a challenge, but some believe that, with the election cycle underway, he may be reluctant to spend it on a largely procedural fight that could detract from his campaign themes."
 				"006" = "\"A popular incumbent has all the advantages,\" says Ralph Duckett, professor of political science at Alexander Hamilton Business College.  \"Getting into a political street-brawl this close to an election could only benefit his opponents.  He has nothing to gain and everything to lose.  Besides, in honoring any stipulations proposed by his opponents in Congress he'd be seen as reaching out, which can only help win the support of moderates.\""
-				"007" = "[Cont’d, p. 11]"
+				"007" = "[Cont'd, p. 11]"
 				"FillerLongA_PicText"
 			]
 			"FillerLongA_Code" = "<width 248>
@@ -7749,9 +7749,9 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"001" = "Brazilian Ambassador to Kenya Shot Dead in Brussels:
 Police Appeal to Public"
 				"002" = "by Charlotte LeBlanc"
-				"003" = "[Brussels, Belgium] — Two shots rang out, the Brazilian Ambassador to Kenya fell to the ground clutching his chest, and a man with translucent skin and hair fled the scene.  Those are the facts agreed upon by everyone who witnessed Thursday’s assassination of Brazilian Ambassador Fernando Ribeiro at an open-air café in central Brussels."
-				"004" = "Brazilian, Kenyan, and Belgian officials have appealed to the public for any information about the identity of the alleged “albino assassin,” who reportedly emerged from a taxi, fired two shots at the Ambassador’s chest, then fled the scene on foot."
-				"005" = "Local law enforcement authorities are also still trying to determine the motive for the crime.  “Frankly we’re baffled,” says [Cont’d, p. 9]"
+				"003" = "[Brussels, Belgium] — Two shots rang out, the Brazilian Ambassador to Kenya fell to the ground clutching his chest, and a man with translucent skin and hair fled the scene.  Those are the facts agreed upon by everyone who witnessed Thursday's assassination of Brazilian Ambassador Fernando Ribeiro at an open-air café in central Brussels."
+				"004" = "Brazilian, Kenyan, and Belgian officials have appealed to the public for any information about the identity of the alleged “albino assassin,” who reportedly emerged from a taxi, fired two shots at the Ambassador's chest, then fled the scene on foot."
+				"005" = "Local law enforcement authorities are also still trying to determine the motive for the crime.  “Frankly we're baffled,” says [Cont'd, p. 9]"
 				"FillerShortA_PicText"
 			]
 			"FillerShortA_Code" = "<width 250>
@@ -7789,8 +7789,8 @@ Police Appeal to Public"
 			"Story" [
 				"001" = "US Veep Burke Dead in Car Wreck"
 				"002" = "[Wire Copy - IPA]"
-				"003" = "Popular American Vice-President Spaulding Burke was killed in an automobile accident yesterday afternoon on a highway not far from the nation’s capital.   Washington D.C. Metropolitan Police report that the Vice-President’s limousine swerved out of control on Interstate 495, the so-called Washington “Beltway,” in College Point, Maryland, at approximately 5:40 p.m.  According to eyewitnesses, the limousine then spun wildly across the highway, flipped into oncoming traffic, and was struck by a southbound tractor-trailer.  The vice-president, his chief of staff, two aides, and the driver of the limo were declared dead on the scene by responding emergency medical technicians."
-				"004" = "The vice-president leaves a wife, Tabitha Porter Burke, and two children, Andrew and Elizabeth, ages 8 and 6.  President Tom Stewart has declared today a national day of mourning for the late vice-president.  He is expected to nominate a replacement for the deceased vice-president by the end of the week.  No candidates had been named at the time this article went to press, but [Cont’d, p. 12]"
+				"003" = "Popular American Vice-President Spaulding Burke was killed in an automobile accident yesterday afternoon on a highway not far from the nation's capital.   Washington D.C. Metropolitan Police report that the Vice-President's limousine swerved out of control on Interstate 495, the so-called Washington “Beltway,” in College Point, Maryland, at approximately 5:40 p.m.  According to eyewitnesses, the limousine then spun wildly across the highway, flipped into oncoming traffic, and was struck by a southbound tractor-trailer.  The vice-president, his chief of staff, two aides, and the driver of the limo were declared dead on the scene by responding emergency medical technicians."
+				"004" = "The vice-president leaves a wife, Tabitha Porter Burke, and two children, Andrew and Elizabeth, ages 8 and 6.  President Tom Stewart has declared today a national day of mourning for the late vice-president.  He is expected to nominate a replacement for the deceased vice-president by the end of the week.  No candidates had been named at the time this article went to press, but [Cont'd, p. 12]"
 				"Story_PicText" = "U.S. Vice-President Burke was declared dead at the scene."
 			]
 			"Story_Code" = "<width 580>
@@ -7838,9 +7838,9 @@ Police Appeal to Public"
 				"001" = "Humboldt County Economy Up in Smoke?"
 				"002" = "by Nancy Espinosa"
 				"003" = "Humboldt County Tribune staff"
-				"004" = "In a startling report that was supposed to remain confidential, County Controller Karen Lawes-Marston estimates that nearly one-fifth of all economic activity in Humboldt County appears to be drug-related.  The report, “Humboldt’s Hidden Economy,” was prepared at the request of the County Board of Supervisors and was not intended to be leaked to the press."
-				"005" = "“This is all very speculative,” said Supervisor Harry Greene, referring to the report’s suggestion that 19.3% of the county’s economic activity was directly or indirectly related to the drug trade.  “We’ve all known there’s been a certain amount of illegal agricultural activity going on, but things seem to have kicked up a notch recently.  We’re not quite sure where that’s coming from, and we’re not sure the numbers are on target, which is why it’s so irresponsible to publish this story in the press.”"
-				"006" = "No other supervisor would comment on the story.  Ironically, the up tick in “shadow economy” drug money appears to have first surged at about the same time the world-renowned Pine Cone Rehabilitation Clinic first opened its doors to the world’s wealthiest addicts—most of them alcoholics, but also a small number of hard drug abusers."
+				"004" = "In a startling report that was supposed to remain confidential, County Controller Karen Lawes-Marston estimates that nearly one-fifth of all economic activity in Humboldt County appears to be drug-related.  The report, “Humboldt's Hidden Economy,” was prepared at the request of the County Board of Supervisors and was not intended to be leaked to the press."
+				"005" = "“This is all very speculative,” said Supervisor Harry Greene, referring to the report's suggestion that 19.3% of the county's economic activity was directly or indirectly related to the drug trade.  “We've all known there's been a certain amount of illegal agricultural activity going on, but things seem to have kicked up a notch recently.  We're not quite sure where that's coming from, and we're not sure the numbers are on target, which is why it's so irresponsible to publish this story in the press.”"
+				"006" = "No other supervisor would comment on the story.  Ironically, the up tick in “shadow economy” drug money appears to have first surged at about the same time the world-renowned Pine Cone Rehabilitation Clinic first opened its doors to the world's wealthiest addicts—most of them alcoholics, but also a small number of hard drug abusers."
 				"007" = "Maybe their clients have been importing some back-up supplies?  Not likely, according to Pine Cone spokeswoman Anita Chevre.  \"Once our clients step through those doors, the only way they get back out is when they're clean or when they're dead.  We are a one-hundred percent narcotics-free zone.\""
 				"FillerLongA_PicText" = "A bigger piece of the pie than expected."
 			]
@@ -7884,8 +7884,8 @@ Police Appeal to Public"
 			"FillerLongB" [
 				"001" = "Defiant Congress Gets Its Way"
 				"002" = "[Wire Copy - IPA]"
-				"003" = "After weeks of backroom negotiations and pressure politics at the highest levels of government, Congress has finally voted to approve President Tom Stewart’s nomination of Daniel Morris as interim Vice-President, filling the vacancy created weeks ago with the tragic traffic death of Spaulding Burke."
-				"004" = "The opposition Congress refused even to hold votes on several of President Stewart’s previous nominations, standing by their original threat to withhold their approval from any nominee opposed to a ban on human cloning.  Mr. Morris, the darling of Wall Street during the biotech boom of the middle 1990s, has been agitating for such a ban since President Stewart took office, but has otherwise been a staunch supporter of the president and his policies."
+				"003" = "After weeks of backroom negotiations and pressure politics at the highest levels of government, Congress has finally voted to approve President Tom Stewart's nomination of Daniel Morris as interim Vice-President, filling the vacancy created weeks ago with the tragic traffic death of Spaulding Burke."
+				"004" = "The opposition Congress refused even to hold votes on several of President Stewart's previous nominations, standing by their original threat to withhold their approval from any nominee opposed to a ban on human cloning.  Mr. Morris, the darling of Wall Street during the biotech boom of the middle 1990s, has been agitating for such a ban since President Stewart took office, but has otherwise been a staunch supporter of the president and his policies."
 				"005" = "Many Washington insiders have expressed surprise at the bullying tactics deployed by Congress to more or less “install,” as one source put it, the enigmatic Mr. Morris in the second-highest office of the land."
 				"006" = "[See MORRIS, page 4]"
 				"FillerLongB_PicText" = "Vice-Presidential nominee Daniel Morris."
@@ -7970,8 +7970,8 @@ Police Appeal to Public"
 			"Story" [
 				"001" = "OIC Examines Burke Driver"
 				"002" = "[Wire Copy - IPA]"
-				"003" = "The Office of Independent Counsel Eliot Steadman announced this morning that the late vice-president’s long-time driver, Carl Wagner, was indeed a foreign national, having moved to the United States from his native Austria in 1999.  He never naturalized as an American citizen and some questions have arisen as to his Secret Service screening."
-				"004" = "“It’s not illegal for a foreign national to be employed by a member of the Executive Branch,” Mr. Steadman explained in a memo distributed at the press briefing, “nor is there any question of any tax laws having been violated.  We would be remiss in our duties, however, if we neglected to explore the possibilities raised by the late Mr. Wagner’s foreign nationality.”"
+				"003" = "The Office of Independent Counsel Eliot Steadman announced this morning that the late vice-president's long-time driver, Carl Wagner, was indeed a foreign national, having moved to the United States from his native Austria in 1999.  He never naturalized as an American citizen and some questions have arisen as to his Secret Service screening."
+				"004" = "“It's not illegal for a foreign national to be employed by a member of the Executive Branch,” Mr. Steadman explained in a memo distributed at the press briefing, “nor is there any question of any tax laws having been violated.  We would be remiss in our duties, however, if we neglected to explore the possibilities raised by the late Mr. Wagner's foreign nationality.”"
 				"005" = "Austrian authorities confused matters further by reporting several hours later that Mr. Wagner was not an Austrian national, but had claimed refugee status in that country during the Balkan Wars of the 1990s.  The OIC had not responded to requests for a reaction to these statements [See DRIVER, page 5]"
 				"Story_PicText" = "Carl Wagner, national origin unknown."
 			]
@@ -8021,8 +8021,8 @@ Police Appeal to Public"
 			"FillerLongA" [
 				"001" = "POLICE: Blueberry Court Violence Exaggerated"
 				"002" = "by Sarah Paterno"
-				"003" = "After many telephone calls from concerned residents, Assistant Commissioner George Tucker of the county Sheriff’s Department issued a press release on Thursday in which he said that reports of recent violence on Blueberry Court were exaggerated."
-				"004" = "“The Sheriff’s Department would like to assure the residents of Cayuga Palms that, despite rumors to the contrary, no officers from our department or any other law enforcement agency were engaged in firefights in the Blueberry Court neighborhood at any time last week.  The Cayuga Palms community remains as safe as it always has been, and residents can rest assured that the county Sheriff’s Department intends to keep it that way.”"
+				"003" = "After many telephone calls from concerned residents, Assistant Commissioner George Tucker of the county Sheriff's Department issued a press release on Thursday in which he said that reports of recent violence on Blueberry Court were exaggerated."
+				"004" = "“The Sheriff's Department would like to assure the residents of Cayuga Palms that, despite rumors to the contrary, no officers from our department or any other law enforcement agency were engaged in firefights in the Blueberry Court neighborhood at any time last week.  The Cayuga Palms community remains as safe as it always has been, and residents can rest assured that the county Sheriff's Department intends to keep it that way.”"
 				"005" = "Phone calls made by this reporter to the FBI however went unanswered and the fact remains that numerous trustworthy residents in the Blueberry Court neighborhood, including this reporter, observed unusual and even frightening activity several days ago and nothing that Assistant Commissioner Tucker says can change that."
 				"006" = "This reporter would like to see an independent investigation of the events which this reporter saw with her own two eyes.  This reporter would also like to hear from other residents who saw and heard some of the horrifying things that happened that day."
 				"007" = "You may contact this reporter care of this paper, or visit her in her office in the community hall, right next to the women's locker room (the door still says \"linen\" but it's actually now the official office of this paper)."
@@ -8069,10 +8069,10 @@ Police Appeal to Public"
 				"001" = "LOCAL: Grill Code Sparks Debate"
 				"002" = "by Sarah Paterno"
 				"003" = "The Cayuga Palms Board of Directors held their quarterly meeting last night and heard arguments on the proposed new controversial barbecue and grill code for Cayuga Palms properties."
-				"004" = "Supporters of the code say that certain residents have taken advantage of the lack of regulations by building what one resident called “giant industrial gas grills” in their backyards.  Some of these big grills are ten to twelve-feet high.  Angry residents claim the smoke they produce when they’re being used might violate certain California environmental laws although none of those addressing the board cited any particular regulation.  Chuck Hanson of Briar Court says one of his neighbors barbecued “a whole cow” recently and this was very upsetting to him and his wife who are both vegetarians although they do sometimes eat fish."
-				"005" = "Those who oppose the code say they have the right to build or install anything they want in their backyard, and “roast as many cows as we want,” as long as it doesn’t violate existing laws.  They argued it was unfair to change laws after they’d already spent their money on these grills."
+				"004" = "Supporters of the code say that certain residents have taken advantage of the lack of regulations by building what one resident called “giant industrial gas grills” in their backyards.  Some of these big grills are ten to twelve-feet high.  Angry residents claim the smoke they produce when they're being used might violate certain California environmental laws although none of those addressing the board cited any particular regulation.  Chuck Hanson of Briar Court says one of his neighbors barbecued “a whole cow” recently and this was very upsetting to him and his wife who are both vegetarians although they do sometimes eat fish."
+				"005" = "Those who oppose the code say they have the right to build or install anything they want in their backyard, and “roast as many cows as we want,” as long as it doesn't violate existing laws.  They argued it was unfair to change laws after they'd already spent their money on these grills."
 				"006" = "The Board is expected to give a decision early next month.  Residents who want to register their own particular comments about the issue but couldn't make time to attend the meeting can submit their comments in writing to the administrative offices."
-				"007" = "At the meeting the board voted that community owners have to be reminded that all guests have to use parking vouchers, which they haven’t been.  A proposal to increase the community's communications budget, which would have really helped this paper, was also shot down by the unsympathetic board.  But mainly most of the controversy was really about the grill code and the debate was very heated.  (Hee hee.)"
+				"007" = "At the meeting the board voted that community owners have to be reminded that all guests have to use parking vouchers, which they haven't been.  A proposal to increase the community's communications budget, which would have really helped this paper, was also shot down by the unsympathetic board.  But mainly most of the controversy was really about the grill code and the debate was very heated.  (Hee hee.)"
 				"FillerLongB_PicText" = "Vice-Presidential nominee Daniel Morris."
 			]
 			"FillerLongB_Code" = "<width 248>
@@ -8152,8 +8152,8 @@ Police Appeal to Public"
 			"Story" [
 				"001" = "NATIONAL: FBI on Albino Manhunt"
 				"002" = "[Wire Copy - IPA]"
-				"003" = "For the first time in its history, the FBI most-wanted list features an albino at the top of the charts.  The fugitive in question is believed to be responsible for a number of recent assassinations across the world.  The unidentified albino has been cited in so many cases that many law enforcement agencies believe he’s a mere urban legend.  Others suspect a group of albinos may be working together and that witnesses have noticed only their albinism—thus misleading the FBI and Interpol to conclude erroneously that they're seeking a single operative.  Conspiracy theories abound.  The Albino Anti-Defamation League (AADL) isn’t amused."
-				"004" = "“Albinos are no different from anyone else,” says AADL spokesman Marvin LeBlanc.  “You can’t say anything meaningful about ‘all albinos’ any more than you can about ‘all redheads’ or ‘everyone with freckles.’  The man being sought by the FBI may well be the murderous criminal their bulletins suggest him to be, but the fact that he’s an albino is completely beside the point.”"
+				"003" = "For the first time in its history, the FBI most-wanted list features an albino at the top of the charts.  The fugitive in question is believed to be responsible for a number of recent assassinations across the world.  The unidentified albino has been cited in so many cases that many law enforcement agencies believe he's a mere urban legend.  Others suspect a group of albinos may be working together and that witnesses have noticed only their albinism—thus misleading the FBI and Interpol to conclude erroneously that they're seeking a single operative.  Conspiracy theories abound.  The Albino Anti-Defamation League (AADL) isn't amused."
+				"004" = "“Albinos are no different from anyone else,” says AADL spokesman Marvin LeBlanc.  “You can't say anything meaningful about ‘all albinos' any more than you can about ‘all redheads' or ‘everyone with freckles.'  The man being sought by the FBI may well be the murderous criminal their bulletins suggest him to be, but the fact that he's an albino is completely beside the point.”"
 				"Story_PicText" = "Albinism is a rare genetic condition."
 			]
 			"Story_Code" = "<width 580>
@@ -8200,8 +8200,8 @@ Police Appeal to Public"
 			"FillerLongA" [
 				"001" = "National Wire Service Round-Up"
 				"002" = "From wire services"
-				"003" = "[IPA]  Macklin for Veep: Although the administration continues to insist publicly that President Stewart will not be dumping interim Vice-President Daniel Morris from the ticket during this summer’s convention, one high-ranking White House insider says Interior Secretary Jimmy Macklin leads the short list of prospective Vice-Presidential replacements.  Neither the President nor Secretary Macklin have commented on the story."
-				"004" = "[IPA]  Lone Albino Theory Goes Down (Down Under):  In the wake of last Saturday’s assassination of Ukrainian General Viktor Moroz in Kiev, at which eyewitnesses and video surveillance both confirmed the presence of a suspicious albino on the tarmac, and the assassination of Australia’s National Science Advisor in Melbourne just 14 hours later, law enforcement officials around the world have been compelled to concede that the so-called “Albino Assassin” may indeed be more than one person.  The idea of multiple albinos working together in an international criminal enterprise had previously been rejected as an “urban legend” or “conspiracy theory” by most law enforcement agencies around the world."
+				"003" = "[IPA]  Macklin for Veep: Although the administration continues to insist publicly that President Stewart will not be dumping interim Vice-President Daniel Morris from the ticket during this summer's convention, one high-ranking White House insider says Interior Secretary Jimmy Macklin leads the short list of prospective Vice-Presidential replacements.  Neither the President nor Secretary Macklin have commented on the story."
+				"004" = "[IPA]  Lone Albino Theory Goes Down (Down Under):  In the wake of last Saturday's assassination of Ukrainian General Viktor Moroz in Kiev, at which eyewitnesses and video surveillance both confirmed the presence of a suspicious albino on the tarmac, and the assassination of Australia's National Science Advisor in Melbourne just 14 hours later, law enforcement officials around the world have been compelled to concede that the so-called “Albino Assassin” may indeed be more than one person.  The idea of multiple albinos working together in an international criminal enterprise had previously been rejected as an “urban legend” or “conspiracy theory” by most law enforcement agencies around the world."
 				"005" = "[NII]  UN Evacuated: The United Nations building in Manhattan was evacuated yesterday after agency officials and New York Police received \"specific and credible\" threats from anonymous telephone callers.  The evacuation was orderly and no damage or injuries were reported.  Police now believe the call to have been a hoax.  The evacuation resulted in the general assembly's vote on a human cloning ban being postponed yet again."
 				"FillerLongA_PicText"
 			]
@@ -8243,10 +8243,10 @@ Police Appeal to Public"
 			"FillerLongB" [
 				"001" = "Mardi Gras Drinking Deaths Down"
 				"002" = "by Stephan St. Martin, Globe columnist"
-				"003" = "According to police reports and Department of Health statistics, fewer people died of alcohol-related deaths at this year’s Mardi Gras celebrations than in any of the last twenty-seven years."
-				"004" = "Festival organizers say this year’s “Party More, Drink Less” campaign, in which celebrity spokespeople, professional athletes, and supermodels urged the public to drink in moderation, was responsible for the improvement."
-				"005" = "According to Steve Walker, Executive Director of Citizens for Sobriety, lower mortality rates weren’t the only positive outcome of the campaign.  “We also had less drunk-and-disorderly arrests than any season in the past three decades.  There were even fewer arrests for public lewdness and indecent exposure.”  Walker believes most celebrants have lost touch with the religious significance of Mardi Gras.  \"I've got nothing against a glass or two of wine to relax, or even a little more to celebrate, and we ought to celebrate Mardi Gras enthusiastically, but you see these inexperienced kids drinking just gallons of booze, and you know nothing good's going to come of it.\""
-				"006" = "Some veteran Mardi Gras participants, however, seemed unenthusiastic about the improved statistics.  “Public lewdness shouldn’t even be a crime,” said one 82-year-old New Orleans native.  “I probably can’t even tell you some of the things I saw when I was a boy or they’d come and arrest me, too.  These puritans ought to go back where they came from.  Lousy spoil-sports.  Back in my day we'd have whipped their sanctimonious butts and given 'em corn-liquor enemas...”"
+				"003" = "According to police reports and Department of Health statistics, fewer people died of alcohol-related deaths at this year's Mardi Gras celebrations than in any of the last twenty-seven years."
+				"004" = "Festival organizers say this year's “Party More, Drink Less” campaign, in which celebrity spokespeople, professional athletes, and supermodels urged the public to drink in moderation, was responsible for the improvement."
+				"005" = "According to Steve Walker, Executive Director of Citizens for Sobriety, lower mortality rates weren't the only positive outcome of the campaign.  “We also had less drunk-and-disorderly arrests than any season in the past three decades.  There were even fewer arrests for public lewdness and indecent exposure.”  Walker believes most celebrants have lost touch with the religious significance of Mardi Gras.  \"I've got nothing against a glass or two of wine to relax, or even a little more to celebrate, and we ought to celebrate Mardi Gras enthusiastically, but you see these inexperienced kids drinking just gallons of booze, and you know nothing good's going to come of it.\""
+				"006" = "Some veteran Mardi Gras participants, however, seemed unenthusiastic about the improved statistics.  “Public lewdness shouldn't even be a crime,” said one 82-year-old New Orleans native.  “I probably can't even tell you some of the things I saw when I was a boy or they'd come and arrest me, too.  These puritans ought to go back where they came from.  Lousy spoil-sports.  Back in my day we'd have whipped their sanctimonious butts and given 'em corn-liquor enemas...”"
 				"007" = "\"That's just the kind of attitude we've got to overcome,\" says Walker.  \"The idea that you're being a quote-unquote 'spoil-sport' because you want to help people have a good time without getting sick or in trouble or hurting themselves... it's just sad.\""
 				"008" = "[See A SOBER AFFAIR, p. A12]"
 				"FillerLongB_PicText"
@@ -8409,9 +8409,9 @@ Police Appeal to Public"
 				"001" = "School Board Tells Kids BYO Ammo"
 				"002" = "by Elias Muntz"
 				"003" = "The Hunter County School Board voted on Wednesday that high school students would have to start supplying their own ammo for marksmanship class which is an elective that is not reimbursed by the state or federal funds."
-				"004" = "“Basically we got to choose between kids buying their own ammo or shutting the class down completely,” said Hank Thornton, chairman of the School Board.  “We know this ain’t a popular decision but for the past three years we been spending more money on marksmanship class than some educational subjects and we just can’t keep that up, especially when marksmanship is just an elective anyway.”"
+				"004" = "“Basically we got to choose between kids buying their own ammo or shutting the class down completely,” said Hank Thornton, chairman of the School Board.  “We know this ain't a popular decision but for the past three years we been spending more money on marksmanship class than some educational subjects and we just can't keep that up, especially when marksmanship is just an elective anyway.”"
 				"005" = "Angry parents at the meeting said they would organize themselves to get the school board members replaced by “people who know crap from crapola.”"
-				"006" = "Hank Thornton says he \"don’t mind none since the job don’t pay so good and [he’s] tired of putting up with it all and been thinking about retiring for a good while anyhow.\""
+				"006" = "Hank Thornton says he \"don't mind none since the job don't pay so good and [he's] tired of putting up with it all and been thinking about retiring for a good while anyhow.\""
 				"007" = "\"Hank Thornton's a good man,\" Jeb Clayfoot acknowledged, \"but there's a little thing in this here country's constitution called the second amendment, and ain't nobody, not even Hank Thornton, gonna take away my boy's God-given, constitutionally-protected right to learn how to defend him self. I didn't pay for no ammo, my daddy didn't pay for no ammo, my granddaddy didn't pay for no ammo, and my boy sure as hell ain't gonna pay for no ammo so long as this here school board's runnin' off money I made off the sweat a my brow.\""
 				"FillerLongA_PicText"
 			]
@@ -8455,10 +8455,10 @@ Police Appeal to Public"
 			"FillerLongB" [
 				"001" = "Editorial: Gentlemen, Start Your Engines"
 				"002" = "Delta Editorial Board"
-				"003" = "Now that the conventions are over, President Stewart and Frank Morgan can get down to some serious campaigning.  The Chicago and Houston conventions didn’t offer no surprises, and we should probably all be greatful they held them at the same time for once so we didn’t have to suffer through twice as long."
-				"004" = "This newspaper is ready to go on the record already in support of Frank Morgan.  We urge our readers to vote for him.  A lot of delta residents have told us they don’t see the big deal about cloning, about why it’s such a big campaign issue.  Well, folks, look at it this way: cloning’s just copying people, and there’s such a hell a lot of people out there ain’t none of us want copied."
-				"005" = "Frank Morgan has promised to ban cloning forever and to work with the U.N. and E.U. and all them gasbags about getting a worldwide ban.  President Stewart used to say he supported cloning, now he says he’d just leave it up to the scientific community.  Either way, he’s just not taking it serious enough."
-				"006" = "The Delta Weekly thinks we deserve a president that takes cloning seriously.  That’s why we think Frank Morgan is the man for the job."
+				"003" = "Now that the conventions are over, President Stewart and Frank Morgan can get down to some serious campaigning.  The Chicago and Houston conventions didn't offer no surprises, and we should probably all be greatful they held them at the same time for once so we didn't have to suffer through twice as long."
+				"004" = "This newspaper is ready to go on the record already in support of Frank Morgan.  We urge our readers to vote for him.  A lot of delta residents have told us they don't see the big deal about cloning, about why it's such a big campaign issue.  Well, folks, look at it this way: cloning's just copying people, and there's such a hell a lot of people out there ain't none of us want copied."
+				"005" = "Frank Morgan has promised to ban cloning forever and to work with the U.N. and E.U. and all them gasbags about getting a worldwide ban.  President Stewart used to say he supported cloning, now he says he'd just leave it up to the scientific community.  Either way, he's just not taking it serious enough."
+				"006" = "The Delta Weekly thinks we deserve a president that takes cloning seriously.  That's why we think Frank Morgan is the man for the job."
 				"FillerLongB_PicText" = "Endorsement: Frank Morgan."
 			]
 			"FillerLongB_Code" = "<width 248>
@@ -8498,7 +8498,7 @@ Police Appeal to Public"
 				"001" = "The Delta Beat: Politics, Olympics"
 				"002" = "by Delta Staff"
 				"003" = "Every four years we like to find what kinds of things local residents are thinking about when they cast their votes for president.  Two weeks ago we invited readers to call or write us their opinions, and members of the Delta editorial board have been talking it up with locals."
-				"004" = "Editors recently set themselves down at Kay’s Katfish Korner to get the pulse of the community over a few frostys. Surprise, surprise, almost everyone we talked to said they were going to vote against President Stewart this fall. The reasons were different from one person to another, but almost everyone agreed President Stewart was just no good on national security.  Lots of people also said they figured he was pretty out of touch with regular folk and came off as a typical yankee elitist.  As one local put it, \"I don't like havin' a president that looks and acts like he ain't never hooked his own bait.\""
+				"004" = "Editors recently set themselves down at Kay's Katfish Korner to get the pulse of the community over a few frostys. Surprise, surprise, almost everyone we talked to said they were going to vote against President Stewart this fall. The reasons were different from one person to another, but almost everyone agreed President Stewart was just no good on national security.  Lots of people also said they figured he was pretty out of touch with regular folk and came off as a typical yankee elitist.  As one local put it, \"I don't like havin' a president that looks and acts like he ain't never hooked his own bait.\""
 				"005" = "We also asked about the Olympics: were folks watching?  What events?  Was there anything missing?  We stirred up a heck of a hornet's nest with those questions.  Seems most local folk gave up [see page 3]"
 				"FillerShortA_PicText"
 			]
@@ -8537,9 +8537,9 @@ Police Appeal to Public"
 			"Story" [
 				"001" = "Former CIA Director Surprises Ole Miss Alumni"
 				"002" = "by Elias Muntz"
-				"003" = "Ole Miss alumnis attending a University of Mississippi fundraising last Thursday night in Oxford was just amazed when fellow alumni and former CIA Director Leland “Jack” Alexander (’53) made a unscheduled appearance to support the school.  Mr. Alexander talked about growing threats to national security and the need for improvements in American intelligence operations.  He didn’t mince words about the current Stewart administration’s failures in these areas."
-				"004" = "“We know the terrorists are out there,” he said, “and we know there’s rogue governments with terrifying arsenals at their disposal.\"  The idea of some Anti-American terrorist getting his hands on nuclear, biological, chemical, or cloning technology from one of these governments is unthinkable, but Mr. Alexander said the Stewart administration hasn't done jack diddley squat to prevent it."
-				"005" = "He said the administration’s failure to treat cloning as a weapon technology was one of its worst and most dangerous of all its failings.  He asked his audience to imagine an army of super-warriors cloned from Olympic athletes, or a rogue government with a whole university full of clone Einsteins, and so on.  He said America had a special moral responsibility in the world and if we didn't make human cloning illegal here, why then most likely nobody would anywhere."
+				"003" = "Ole Miss alumnis attending a University of Mississippi fundraising last Thursday night in Oxford was just amazed when fellow alumni and former CIA Director Leland “Jack” Alexander ('53) made a unscheduled appearance to support the school.  Mr. Alexander talked about growing threats to national security and the need for improvements in American intelligence operations.  He didn't mince words about the current Stewart administration's failures in these areas."
+				"004" = "“We know the terrorists are out there,” he said, “and we know there's rogue governments with terrifying arsenals at their disposal.\"  The idea of some Anti-American terrorist getting his hands on nuclear, biological, chemical, or cloning technology from one of these governments is unthinkable, but Mr. Alexander said the Stewart administration hasn't done jack diddley squat to prevent it."
+				"005" = "He said the administration's failure to treat cloning as a weapon technology was one of its worst and most dangerous of all its failings.  He asked his audience to imagine an army of super-warriors cloned from Olympic athletes, or a rogue government with a whole university full of clone Einsteins, and so on.  He said America had a special moral responsibility in the world and if we didn't make human cloning illegal here, why then most likely nobody would anywhere."
 				"006" = "\"This administration ain't got the moral sensibility God gave a junebug,\" Mr. Alexander said to great applause.  The audience was mostly very receptive to his remarks.  Some protestors did start chanting at one point, but they got shut up pretty quick."
 				"007" = "Mr. Alexander also told alumnis about his favorite local drinking and fishing spots from back when he was a student and also a few reminiscences of his own college days.  One time he caught a forty-eight pound catfish."
 				"Story_PicText" = "Ready to win."
@@ -8594,9 +8594,9 @@ Police Appeal to Public"
 				"001" = "Widowed at the Altar: Local Woman Faces Hardship, Challenges"
 				"002" = "by Elias Muntz"
 				"003" = "Margeaux LeBlanc was the kind of gal that had it all.  Smart, pretty, and the daughter of one of the wealthiest men in the region, she was engaged to a handsome fellow with a promising future of his own.  That all changed on Saturday when what should of been the happiest day of her whole life turned into a terrible nightmare.  By the end of the day, her daddy was dead and her groom was too."
-				"004" = "She wouldn’t even have been married if it wasn’t for the fact what that her and her beau got hitched in secret by the county clerk before the actual wedding ceremony itself."
-				"005" = "The grieving widow hasn’t hardly been seen since then.  Rumor has it she’s so struck with grief that she’s selling all her daddy’s and husband’s holdings and getting out of the area completely, though no one seems to know where a girl like her might go."
-				"006" = "[see Margeaux’s Struggle on next page]"
+				"004" = "She wouldn't even have been married if it wasn't for the fact what that her and her beau got hitched in secret by the county clerk before the actual wedding ceremony itself."
+				"005" = "The grieving widow hasn't hardly been seen since then.  Rumor has it she's so struck with grief that she's selling all her daddy's and husband's holdings and getting out of the area completely, though no one seems to know where a girl like her might go."
+				"006" = "[see Margeaux's Struggle on next page]"
 				"FillerLongA_PicText" = "Margeaux LeBlanc's wedding picture"
 			]
 			"FillerLongA_Code" = "<width 248>
@@ -8638,10 +8638,10 @@ Police Appeal to Public"
 			"FillerLongB" [
 				"001" = "School Board Chairman Resigns"
 				"002" = "by Elias Muntz"
-				"003" = "Hunter County School Board Chairman Hank Thornton turned in his resignation on Tuesday saying that he’d had enough and looked forward to more time fishing with his grandchildren and such."
-				"004" = "Things have been pretty hot for the School Board lately ever since the Board voted to make students buy their own ammunition for marksmanship class.  Parents say ammo costs money and not all families can afford the expense of providing ammo for their kid’s training two or three times a week especially when so many local residents got three or four kids in school at once."
-				"005" = "Jonas “Moose” Miller, father of three boys in high school, was so angry at the last meeting he had to be taken out by police after he started firing shots in the ceiling and didn’t stop until Officer George Dayton snuck up and konked him upside the head with his nightstick."
-				"006" = "Miller is still in County Hospital but says he’s going to run for Thornton’s empty seat on a platform of free ammo.  Police say they won’t press charges but Miller will have to pay to fix the ceiling in the high school gym where the meeting was held, which he shot all to hell."
+				"003" = "Hunter County School Board Chairman Hank Thornton turned in his resignation on Tuesday saying that he'd had enough and looked forward to more time fishing with his grandchildren and such."
+				"004" = "Things have been pretty hot for the School Board lately ever since the Board voted to make students buy their own ammunition for marksmanship class.  Parents say ammo costs money and not all families can afford the expense of providing ammo for their kid's training two or three times a week especially when so many local residents got three or four kids in school at once."
+				"005" = "Jonas “Moose” Miller, father of three boys in high school, was so angry at the last meeting he had to be taken out by police after he started firing shots in the ceiling and didn't stop until Officer George Dayton snuck up and konked him upside the head with his nightstick."
+				"006" = "Miller is still in County Hospital but says he's going to run for Thornton's empty seat on a platform of free ammo.  Police say they won't press charges but Miller will have to pay to fix the ceiling in the high school gym where the meeting was held, which he shot all to hell."
 				"FillerLongB_PicText" = "Hank Thornton is retiring."
 			]
 			"FillerLongB_Code" = "<width 248>
@@ -8681,8 +8681,8 @@ Police Appeal to Public"
 				"001" = "School Board Special Election Called"
 				"002" = "by Delta Staff"
 				"003" = "The Hunter County School Board has called a special election to replace retired Chairman Hank Thornton and voters can vote at the high school gym next Tuesday."
-				"004" = "Candidates include two members of the current board and Jonas “Moose” Miller, whose become a kind of celebrity ever since he shot hell out of the gym ceiling during the last official meeting of the school board and had to be drug off by police although he wasn’t formally arrested and had to spend two days in County Hospital on account of Officer Dayton konking his head."
-				"005" = "Moose Miller says he would keep our kid’s ammo free by saving money by cancelling other expenses such as new history textbooks.  “History ain’t changed since I was a boy,” Moose says, “so I don’t see why we got to keep buying new history books.”"
+				"004" = "Candidates include two members of the current board and Jonas “Moose” Miller, whose become a kind of celebrity ever since he shot hell out of the gym ceiling during the last official meeting of the school board and had to be drug off by police although he wasn't formally arrested and had to spend two days in County Hospital on account of Officer Dayton konking his head."
+				"005" = "Moose Miller says he would keep our kid's ammo free by saving money by cancelling other expenses such as new history textbooks.  “History ain't changed since I was a boy,” Moose says, “so I don't see why we got to keep buying new history books.”"
 				"006" = "His main rival, Lee Gaitlin of Marlsberg, is already a member of the school board but believes he should be its next chairman.  \"I could kick Moose's behind in high school, I can sure as hell kick it now.  He ain't fit to fill Hank Thornton's shoes.  Hell, he ain't fit to polish 'em.\""
 				"FillerShortA_PicText"
 			]
@@ -8723,9 +8723,9 @@ Police Appeal to Public"
 			"Story" [
 				"001" = "Locals Make Fortune Selling Hitler Memorabilia Online"
 				"002" = "by Elias Muntz"
-				"003" = "There’s an old pair of socks for sale on a popular online auction site, and when this paper went to press the high bid was four hundred dollars.  You might think that’s a lot of money for an old pair of socks and you’d be right.  Thing is, they used to belong to Adolf Hitler, and Hitler memorabilia is big business."
-				"004" = "The seller is anonymous, just a PO box over in Red Bluff, but you can find a whole mess of Hitler stuff for sale online coming out of the delta region.  From socks to cuff-links, from shoehorns to hair brushes, if Hitler touched it, someone wants to buy it.  And where there’s buyers, there’s sellers."
-				"005" = "Local law enforcement officials say there isn’t anything illegal about the trade in Hitler memorabilia, but that buyers should be real cautious because it’s hard to authenticate these kinds of things."
+				"003" = "There's an old pair of socks for sale on a popular online auction site, and when this paper went to press the high bid was four hundred dollars.  You might think that's a lot of money for an old pair of socks and you'd be right.  Thing is, they used to belong to Adolf Hitler, and Hitler memorabilia is big business."
+				"004" = "The seller is anonymous, just a PO box over in Red Bluff, but you can find a whole mess of Hitler stuff for sale online coming out of the delta region.  From socks to cuff-links, from shoehorns to hair brushes, if Hitler touched it, someone wants to buy it.  And where there's buyers, there's sellers."
+				"005" = "Local law enforcement officials say there isn't anything illegal about the trade in Hitler memorabilia, but that buyers should be real cautious because it's hard to authenticate these kinds of things."
 				"006" = "\"I could take any old pair of socks I got lyin' round the house and say what they used to belong to Robert E. Lee, Andy Jackson, or the King of frickin' Siam,\" explains officer Jedediah Jefferson of the Red Bluff police.  \"And though it's technically fraud if I try to sell 'em as such, y'all gonna have to prove they ain't what I says they are to make your case.  And that ain't as easy as it sounds.\""
 				"007" = "That much said, Jefferson reckons most of this Hitler stuff is genuine.  \"The kind of folks what go collectin' Hitler memoribilia ain't the kind of folks y'all wanna disappoint,\" he says.  \"They ain't got what you'd call a real forgivin' disposition.\""
 				"008" = "This reporter contacted some of the sellers, but none of them was willing to meet with me or even identify themselves, although one guy selling Hitler cuff-links did inform me that he expected at least a hundred thousand dollars for them.  Each!  Besides socks and cuff-links, recent local listings included Hitler's hairbrush, a Hitler beer stein, and, nasty as it sounds, a pair of Hitler's undergarments.  Total price tag if you wanted all of them?  More than one million dollars."
@@ -9331,17 +9331,17 @@ Police Appeal to Public"
 				]
 			]
 			"Notoriety" [
-				"0" = "The police have absolutely no clue of the killer’s appearance, as nobody claims to have seen him or her."
-				"1" = "The police have no information about the killer’s appearance, but they are pretty sure it’s a male."
-				"10" = "Police are looking for the notorious assassin; Agent 47. He has been caught clean on surveillance tape. “It’s hard to believe but we actually got a clean shot of 47. It’s like having caught the Loch Ness monster on video. Now that we finally know exactly how he looks, it’s only a matter of time before we catch him!” says the chief of the investigation."
-				"2" = "By cross referencing the few witnesses’ descriptions of the killer's appearance, police have managed to produce this image, which leads the investigators on to a theory, which connects the killer to organized crime in the Philippines."
-				"3" = "Several witnesses have helped the police develop this image of the killer. Several Latino witnesses cried out ‘muerte!’ when they were shown the image. “We already know this guy from several drugstore robberies, but now he will face murder charges. We have no idea where the Latinos know him from though.” says one of the investigators."
-				"4" = "The police are looking for a Caucasian boy. Witnesses describe the killer as being ‘pretty’ and ‘unusually fancy dressed’. The police are now conducting a search of all gay bars in the area."
-				"5" = "Police have gathered enough information about the killer’s appearance to develop a composite sketch. “We’re looking for at Caucasian male. At the time of the crime he had a large beard, but he might have shaven that off since”, the chief of investigation comments."
-				"6" = "Police have gathered enough information about the killer’s appearance to develop a composite sketch. The police suspects the killer being of higher education, as he was reported being well-mannered and articulate; possibly a tea connoisseur. They now fear that he might be too smart to catch."
-				"7" = "Police have gathered enough information about the killer’s appearance to develop a composite sketch. “This killer is unpredictable. He thinks different. That is what makes him hard to catch.” says one of the investigators."
+				"0" = "The police have absolutely no clue of the killer's appearance, as nobody claims to have seen him or her."
+				"1" = "The police have no information about the killer's appearance, but they are pretty sure it's a male."
+				"10" = "Police are looking for the notorious assassin; Agent 47. He has been caught clean on surveillance tape. “It's hard to believe but we actually got a clean shot of 47. It's like having caught the Loch Ness monster on video. Now that we finally know exactly how he looks, it's only a matter of time before we catch him!” says the chief of the investigation."
+				"2" = "By cross referencing the few witnesses' descriptions of the killer's appearance, police have managed to produce this image, which leads the investigators on to a theory, which connects the killer to organized crime in the Philippines."
+				"3" = "Several witnesses have helped the police develop this image of the killer. Several Latino witnesses cried out ‘muerte!' when they were shown the image. “We already know this guy from several drugstore robberies, but now he will face murder charges. We have no idea where the Latinos know him from though.” says one of the investigators."
+				"4" = "The police are looking for a Caucasian boy. Witnesses describe the killer as being ‘pretty' and ‘unusually fancy dressed'. The police are now conducting a search of all gay bars in the area."
+				"5" = "Police have gathered enough information about the killer's appearance to develop a composite sketch. “We're looking for at Caucasian male. At the time of the crime he had a large beard, but he might have shaven that off since”, the chief of investigation comments."
+				"6" = "Police have gathered enough information about the killer's appearance to develop a composite sketch. The police suspects the killer being of higher education, as he was reported being well-mannered and articulate; possibly a tea connoisseur. They now fear that he might be too smart to catch."
+				"7" = "Police have gathered enough information about the killer's appearance to develop a composite sketch. “This killer is unpredictable. He thinks different. That is what makes him hard to catch.” says one of the investigators."
 				"8" = "Police express high confidence in the accuracy of the depiction of their composite sketch. The sketch has several similarities with the legendary Agent 47, but evidence collected at the crime scene suggests he is a copycat."
-				"9" = "With the help of hundreds of eye witnesses, the police have finally been able to develop an accurate sketch of the killer. Black suit, white shirt, red tie and bald and white as the moon is what characterizes this professional hitman. He also doesn’t speak much."
+				"9" = "With the help of hundreds of eye witnesses, the police have finally been able to develop an accurate sketch of the killer. Black suit, white shirt, red tie and bald and white as the moon is what characterizes this professional hitman. He also doesn't speak much."
 				"PicText_CaughtOnTape" = "The notorious Agent 47 caught on tape"
 				"PicText_NoPoliceSketch" = "The police have not been able to make a personal description"
 				"PicText_PoliceSketch" = "The police have developed a sketch of the suspect"
