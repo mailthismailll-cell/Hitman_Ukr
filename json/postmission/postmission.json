@@ -1043,7 +1043,7 @@ from your friend list?"
 				"M12" = "AMENDMENT XXV"
 				"M13" = "REQUIEM"
 			]
-			"LevelPerformanceHeader" = "УСПIШНIСТЬ МIСIЁ"
+			"LevelPerformanceHeader" = "УСПIШНIСТЬ ЗАВДАННЯ"
 			"LevelPerformanceSubHeader" = "РЕЙТИНГ"
 			"LevelRating" = "РЕЙТИНГ МIСIЁ"
 			"LevelStatContinue" = "ПРОДОВЖИТИ {ZW_SELECT}"
