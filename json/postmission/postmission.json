@@ -1073,7 +1073,7 @@ from your friend list?"
 			"ManageFriendsFor" = "MANAGE FRIENDS FOR:"
 			"mbd" [
 				"missionCustomWeapons" = "ПОВЕРНЕННЯ МОДИФ. ЗБРОЁ"
-				"missionDamageControl" = "КОНТРОЛЬ ШКОДИ"
+				"missionDamageControl" = "ЗАЙВI ЖЕРТВИ"
 				"missionObjectives" = "ЦIЛI"
 				"missionSuitRetrival" = "ПОВЕРНЕННЯ КОСТЮМУ"
 			]
