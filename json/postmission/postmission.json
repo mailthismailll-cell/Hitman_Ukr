@@ -193,7 +193,7 @@ installed. Press {ZW_SELECT} to update or {ZW_SELECT3} to cancel."
 ТИМ ЯК ГОВОРИТИ.  
 
 ПIДКУП МIСЦЕВИХ ТРОХИ
-ЗНИЗИТЬ ВАШУ ВIДОМIСТЬ
+ЗНИЗИТЬ ВАШУ ВПIЗНАВАНIСТЬ
 (15 ОЧОК)."
 				"txtBribeCiviTitle" = "ПIДКУПИТИ СВIДКIВ:"
 				"txtBribeIdentityText" = "УРЯДОВI ТА 
@@ -216,7 +216,7 @@ IСНУВАТИ.
 БУДЕ ЗАТЯГНУТЕ
 ТЯГАНИНОЮ.  
 ПIДКУП ПОЛIЦIЁ ЗМЕНШИТЬ
-ТВОЮ ВIДОМIСТЬ
+ТВОЮ ВПIЗНАВАНIСТЬ
 (40 ОЧОК)."
 				"txtBribePoliceTitle" = "ПIДКУПИТИ ПОЛIЦIЮ:"
 				"txtSendTextMessage" = "SEND TEXT MESSAGE"
@@ -229,17 +229,17 @@ IСНУВАТИ.
 				"AquireNewId" = "Отримати нову iдентичнiсть"
 				"BribeCiv" = "Пiдкупити свiдкiв"
 				"BribeCivBox" = "Мiсцевi якi вас чули i бачили випадково забудуть про це. Спогади зникнуть.  Потенцiйнi свiдки двiчi подумають, перед тим як говорити.  
-Пiдкуп цивiльних трохи знижуэ вашу вiдомiсть"
+Пiдкуп цивiльних трохи знижуэ вашу впiзнаванiсть"
 				"BribeLocPol" = "Пiдкупити мiсцеву полiцiю"
 				"BribePoliceBox" = "Мiсцевий начальник полiцiё подбаэ про те, щоб будь-якi викривальнi докази випадково були загубленi.  Усе розслiдування буде затягнуте тяганиною.  
-Пiдкуп полiцiё значно зменшуэ вашу вiдомiсть."
+Пiдкуп полiцiё значно зменшуэ вашу впiзнаванiсть."
 				"Bribes" = "Хабарi"
-				"LowerNot" = "Знизити свою вiдомiсть"
+				"LowerNot" = "Знизити свою впiзнаванiсть"
 				"NewIdentityBox" = "Жужналiсти будуть мовчати.  Урядовi та мiсцевi записи камер будуть стертi.  Свiдки зникнуть.  Для всiх ви просто перестанете iснувати.  
 Отримання новоё iдечиностi знизить рейтинг вiдомостi."
 			]
 			"BribesHeader" = "ХАБАРI"
-			"BribesSubHeader" = "ЗНИЗИТИ СВОЮ ВIДОМIСТЬ"
+			"BribesSubHeader" = "ЗНИЗИТИ СВОЮ ВПIЗНАВАНIСТЬ"
 			"Buttons" [
 				"Accept" = "ACCEPT {ZW_SELECT4}"
 				"Accept2" = "{ZW_SELECT4} ACCEPT"
@@ -2852,7 +2852,7 @@ Note: In game saves cannot be used after exiting gameplay."
 			]
 			"Yes" = "ТАК"
 			"Yes2" = "Так"
-			"YourNotoriety" = "ТВОЯ ВIДОМIСТЬ:"
+			"YourNotoriety" = "ТВОЯ ВПIЗНАВАНIСТЬ:"
 			"YourRating" = "ТВIЙ РЕЙТИНГ:"
 		]
 		"Items" [

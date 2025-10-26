@@ -193,7 +193,7 @@
 ПРО ГОВОРИТИ.  
 
 ПIДКУПЛЕННЯ ЦИВIЛЬНИХ ЗНИЖЕНЬ
-ВАША вiдомiсть ТРОХА
+ВАША впiзнаванiсть ТРОХА
 (15 БАЛIВ)."
 				"txtBribeCiviTitle" = "ПIДКУПУВАТИ ЦИВIЛЬНИХ:"
 				"txtBribeIdentityText" = "ВЛАДА I ПРАВО 
@@ -216,7 +216,7 @@
 ЗАДУШИТЬСЯ
 З БЯРОКРАТИКОЮ.  
 ХАБАР ПОЛIЦIЁ ЗМЕНШУЭ ВАШУ
-ЗНАЧНА вiдомiсть
+ЗНАЧНА впiзнаванiсть
 (40 БАЛIВ)."
 				"txtBribePoliceTitle" = "ПОЛIЦIЯ З ХАБАРЯ:"
 				"txtSendTextMessage" = "НАДIСЛАТИ ТЕКСТОВЕ ПОВIДОМЛЕННЯ"
@@ -239,7 +239,7 @@
 Отримання нового iменi скине ваш рейтинг вiдомостi."
 			]
 			"BribesHeader" = "ХАБАРI"
-			"BribesSubHeader" = "ЗНИЖИ СВОЮ вiдомiсть"
+			"BribesSubHeader" = "ЗНИЖИ СВОЮ впiзнаванiсть"
 			"Buttons" [
 				"Accept" = "ПРИЙНЯТИ {ZW_SELECT4}"
 				"Accept2" = "{ZW_SELECT4} ПРИЙНЯТИ"
@@ -2852,7 +2852,7 @@ Iснуючий облiковий запис Eidos Online Login
 			]
 			"Yes" = "ТАК"
 			"Yes2" = "так"
-			"YourNotoriety" = "ВАША вiдомiсть:"
+			"YourNotoriety" = "ВАША впiзнаванiсть:"
 			"YourRating" = "ВАШ РЕЙТИНГ:"
 		]
 		"Items" [
