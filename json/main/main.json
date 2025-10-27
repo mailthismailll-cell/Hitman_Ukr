@@ -4532,14 +4532,14 @@
             {
               "name": "wheeldn",
               "org_tbyte": 9,
-              "value": "Колесо мишi вниз",
+              "value": "Wheel mouse down",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "wheelup",
               "org_tbyte": 9,
-              "value": "Колесо мишi вгору",
+              "value": "Wheel mouse up",
               "numChildren": 0,
               "type": "data"
             }
