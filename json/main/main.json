@@ -4497,14 +4497,14 @@
             {
               "name": "mb1",
               "org_tbyte": 9,
-              "value": "Лiва кнопка мишi",
+              "value": "Left mouse button",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "mb2",
               "org_tbyte": 9,
-              "value": "Права кнопка мишi",
+              "value": "Right mouse button",
               "numChildren": 0,
               "type": "data"
             },
