@@ -6548,7 +6548,7 @@
             {
               "name": "InvertVertical",
               "org_tbyte": 9,
-              "value": "Розгорнути по вертикалi",
+              "value": "ОБЕРНУТИ ПО ВЕРТИКАЛI",
               "numChildren": 0,
               "type": "data"
             },
@@ -6814,7 +6814,7 @@
             {
               "name": "PressNewButton",
               "org_tbyte": 9,
-              "value": "НАТИСНIТЬ НОВУ КЛАВИШУ",
+              "value": "НАТИСНIТЬ НОВУ КЛАВIШУ",
               "numChildren": 0,
               "type": "data"
             },
