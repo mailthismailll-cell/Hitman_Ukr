@@ -4511,21 +4511,21 @@
             {
               "name": "mb3",
               "org_tbyte": 9,
-              "value": "Кнопка мишi 3",
+              "value": "Mouse button 3",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "mb4",
               "org_tbyte": 9,
-              "value": "Кнопка мишi 4",
+              "value": "Mouse button 4",
               "numChildren": 0,
               "type": "data"
             },
             {
               "name": "mb5",
               "org_tbyte": 9,
-              "value": "Кнопка мишi 5",
+              "value": "Mouse button 5",
               "numChildren": 0,
               "type": "data"
             },
